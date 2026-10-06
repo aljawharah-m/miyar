@@ -3,6 +3,12 @@ import json, re, time
 from pathlib import Path
 from collections import defaultdict
 
+import sys
+import pathlib
+
+_MIYAR_PROJECT_ROOT = pathlib.Path(__file__).resolve().parents[1]
+if str(_MIYAR_PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(_MIYAR_PROJECT_ROOT))
 from core.recognition import recognize_quran, _SURAH_NAMES
 import core.sources as sources
 from core.contextual_semantics import _citation_locator_root, _EN_SURAH_NAMES
