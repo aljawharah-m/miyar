@@ -525,3 +525,35 @@ https://github.com/aljawharah-m/miyar
 عند استخدام مصدر حي، يحتفظ مِعيار باسم المصدر وURL وretrieved_at لتسجيل وقت الاسترجاع وقابلية التتبع. كما يسجل source_version فقط عندما يقدمه المصدر نفسه، ولا يتم اختراع أو افتراض رقم إصدار.
 
 retrieved_at: يسجل مِعيار وقت استرجاع المصدر الحي لضمان قابلية التتبع والمراجعة.
+
+---
+
+## Transparency, Sources & AI Use
+
+### Sources and provenance
+Mi'yar distinguishes between live evidence retrieved from trusted providers, locally curated rules with documented provenance, and supporting/reference sources that are not automatically treated as evidence used in a decision.
+
+Reference recognition alone does not verify the user translation. Live evidence is recorded only after successful retrieval. Insufficient or conflicting evidence routes the case to Human Review.
+
+Detailed documentation:
+- [Sources](docs/SOURCES.md)
+- [Source Provenance](docs/SOURCE_PROVENANCE.md)
+- [Terminology Provenance](docs/TERMINOLOGY_PROVENANCE_MATRIX.md)
+
+### Rights and third-party content
+Third-party software, models, datasets, and reference content remain governed by their original licenses and upstream terms. Public availability of this repository does not transfer ownership of external content to Mi'yar.
+
+See [Licenses and Third-Party Terms](LICENSES.md).
+
+### AI-assisted development disclosure
+ChatGPT was used during development as an assistance tool for brainstorming and refinement, code-review and debugging support, documentation drafting and editing, test-case discussion, and presentation/submission preparation.
+
+ChatGPT is **not part of Mi'yar's runtime decision engine** and is not required to produce publication-safety decisions.
+
+Runtime findings are produced by the implemented Mi'yar pipeline through deterministic safety rules, terminology safeguards, multilingual semantic analysis, source verification, Evidence Fusion, uncertainty handling, and Human Review.
+
+See [Tools and AI Disclosure](TOOLS.md).
+
+### Human decision boundary
+Mi'yar does not issue fatwas, does not create new religious rulings, and does not replace the human reviewer. The final publication decision remains human.
+
