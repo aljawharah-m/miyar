@@ -1,0 +1,1122 @@
+[
+  {
+    "term": "الإسلام",
+    "rule_provenance": "official",
+    "grounding_status": "official_bundle_grounded",
+    "source_refs": [
+      {
+        "id": "challenge_scientific_bundle_glossary",
+        "name": "الحزمة العلمية الرسمية للتحدي — أمثلة المصطلحات",
+        "url": null,
+        "kind": "official_challenge_material",
+        "verification_locator": "الحزمة العلمية الرسمية للتحدي — قسم المصطلحات الشرعية المتكررة — المصطلح: الإسلام"
+      },
+      {
+        "id": "terminologyenc",
+        "name": "موسوعة المصطلحات الإسلامية المترجمة (TerminologyEnc)",
+        "url": "https://terminologyenc.com",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الإسلام"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "التوحيد",
+    "rule_provenance": "official",
+    "grounding_status": "official_bundle_grounded",
+    "source_refs": [
+      {
+        "id": "challenge_scientific_bundle_glossary",
+        "name": "الحزمة العلمية الرسمية للتحدي — أمثلة المصطلحات",
+        "url": null,
+        "kind": "official_challenge_material",
+        "verification_locator": "الحزمة العلمية الرسمية للتحدي — قسم المصطلحات الشرعية المتكررة — المصطلح: التوحيد"
+      },
+      {
+        "id": "terminologyenc",
+        "name": "موسوعة المصطلحات الإسلامية المترجمة (TerminologyEnc)",
+        "url": "https://terminologyenc.com",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: التوحيد"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الشريعة",
+    "rule_provenance": "official",
+    "grounding_status": "official_bundle_grounded",
+    "source_refs": [
+      {
+        "id": "challenge_scientific_bundle_glossary",
+        "name": "الحزمة العلمية الرسمية للتحدي — أمثلة المصطلحات",
+        "url": null,
+        "kind": "official_challenge_material",
+        "verification_locator": "الحزمة العلمية الرسمية للتحدي — قسم المصطلحات الشرعية المتكررة — المصطلح: الشريعة"
+      },
+      {
+        "id": "terminologyenc",
+        "name": "موسوعة المصطلحات الإسلامية المترجمة (TerminologyEnc)",
+        "url": "https://terminologyenc.com",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الشريعة"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "العبادة",
+    "rule_provenance": "official",
+    "grounding_status": "official_bundle_grounded",
+    "source_refs": [
+      {
+        "id": "challenge_scientific_bundle_glossary",
+        "name": "الحزمة العلمية الرسمية للتحدي — أمثلة المصطلحات",
+        "url": null,
+        "kind": "official_challenge_material",
+        "verification_locator": "الحزمة العلمية الرسمية للتحدي — قسم المصطلحات الشرعية المتكررة — المصطلح: العبادة"
+      },
+      {
+        "id": "terminologyenc",
+        "name": "موسوعة المصطلحات الإسلامية المترجمة (TerminologyEnc)",
+        "url": "https://terminologyenc.com",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: العبادة"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "النبوة",
+    "rule_provenance": "official",
+    "grounding_status": "official_bundle_grounded",
+    "source_refs": [
+      {
+        "id": "challenge_scientific_bundle_glossary",
+        "name": "الحزمة العلمية الرسمية للتحدي — أمثلة المصطلحات",
+        "url": null,
+        "kind": "official_challenge_material",
+        "verification_locator": "الحزمة العلمية الرسمية للتحدي — قسم المصطلحات الشرعية المتكررة — المصطلح: النبوة"
+      },
+      {
+        "id": "terminologyenc",
+        "name": "موسوعة المصطلحات الإسلامية المترجمة (TerminologyEnc)",
+        "url": "https://terminologyenc.com",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: النبوة"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الوحي",
+    "rule_provenance": "official",
+    "grounding_status": "official_bundle_grounded",
+    "source_refs": [
+      {
+        "id": "challenge_scientific_bundle_glossary",
+        "name": "الحزمة العلمية الرسمية للتحدي — أمثلة المصطلحات",
+        "url": null,
+        "kind": "official_challenge_material",
+        "verification_locator": "الحزمة العلمية الرسمية للتحدي — قسم المصطلحات الشرعية المتكررة — المصطلح: الوحي"
+      },
+      {
+        "id": "terminologyenc",
+        "name": "موسوعة المصطلحات الإسلامية المترجمة (TerminologyEnc)",
+        "url": "https://terminologyenc.com",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الوحي"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الحديث",
+    "rule_provenance": "official",
+    "grounding_status": "official_bundle_grounded",
+    "source_refs": [
+      {
+        "id": "challenge_scientific_bundle_glossary",
+        "name": "الحزمة العلمية الرسمية للتحدي — أمثلة المصطلحات",
+        "url": null,
+        "kind": "official_challenge_material",
+        "verification_locator": "الحزمة العلمية الرسمية للتحدي — قسم المصطلحات الشرعية المتكررة — المصطلح: الحديث"
+      },
+      {
+        "id": "terminologyenc",
+        "name": "موسوعة المصطلحات الإسلامية المترجمة (TerminologyEnc)",
+        "url": "https://terminologyenc.com",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الحديث"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "السنة",
+    "rule_provenance": "official",
+    "grounding_status": "official_bundle_grounded",
+    "source_refs": [
+      {
+        "id": "challenge_scientific_bundle_glossary",
+        "name": "الحزمة العلمية الرسمية للتحدي — أمثلة المصطلحات",
+        "url": null,
+        "kind": "official_challenge_material",
+        "verification_locator": "الحزمة العلمية الرسمية للتحدي — قسم المصطلحات الشرعية المتكررة — المصطلح: السنة"
+      },
+      {
+        "id": "terminologyenc",
+        "name": "موسوعة المصطلحات الإسلامية المترجمة (TerminologyEnc)",
+        "url": "https://terminologyenc.com",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: السنة"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الفتوى",
+    "rule_provenance": "official",
+    "grounding_status": "official_bundle_grounded",
+    "source_refs": [
+      {
+        "id": "challenge_scientific_bundle_glossary",
+        "name": "الحزمة العلمية الرسمية للتحدي — أمثلة المصطلحات",
+        "url": null,
+        "kind": "official_challenge_material",
+        "verification_locator": "الحزمة العلمية الرسمية للتحدي — قسم المصطلحات الشرعية المتكررة — المصطلح: الفتوى"
+      },
+      {
+        "id": "terminologyenc",
+        "name": "موسوعة المصطلحات الإسلامية المترجمة (TerminologyEnc)",
+        "url": "https://terminologyenc.com",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الفتوى"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الدعوة",
+    "rule_provenance": "official",
+    "grounding_status": "official_bundle_grounded",
+    "source_refs": [
+      {
+        "id": "challenge_scientific_bundle_glossary",
+        "name": "الحزمة العلمية الرسمية للتحدي — أمثلة المصطلحات",
+        "url": null,
+        "kind": "official_challenge_material",
+        "verification_locator": "الحزمة العلمية الرسمية للتحدي — قسم المصطلحات الشرعية المتكررة — المصطلح: الدعوة"
+      },
+      {
+        "id": "terminologyenc",
+        "name": "موسوعة المصطلحات الإسلامية المترجمة (TerminologyEnc)",
+        "url": "https://terminologyenc.com",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الدعوة"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الزكاة",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الزكاة"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: الزكاة"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الصدقة",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الصدقة"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: الصدقة"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الوضوء",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الوضوء"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: الوضوء"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "التيمم",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: التيمم"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: التيمم"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الصيام",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الصيام"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: الصيام"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الصمد",
+    "rule_provenance": "curated",
+    "grounding_status": "scripture_grounded",
+    "source_refs": [
+      {
+        "id": "quranenc_112_2",
+        "name": "QuranEnc — الإخلاص 112:2",
+        "url": "https://quranenc.com",
+        "kind": "trusted_scriptural_translation",
+        "verification_locator": "QuranEnc — الإخلاص 112:2 — الصمد"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "القيوم",
+    "rule_provenance": "curated",
+    "grounding_status": "scripture_grounded",
+    "source_refs": [
+      {
+        "id": "quranenc_2_255",
+        "name": "QuranEnc — البقرة 2:255",
+        "url": "https://quranenc.com",
+        "kind": "trusted_scriptural_translation",
+        "verification_locator": "QuranEnc — البقرة 2:255 — القيوم"
+      },
+      {
+        "id": "quranenc_3_2",
+        "name": "QuranEnc — آل عمران 3:2",
+        "url": "https://quranenc.com",
+        "kind": "trusted_scriptural_translation",
+        "verification_locator": "QuranEnc — آل عمران 3:2 — القيوم"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الحج",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الحج"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: الحج"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "العمرة",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: العمرة"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: العمرة"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الربا",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الربا"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: الربا"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الشرك",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_creed",
+        "name": "TerminologyEnc — العقيدة",
+        "url": "https://terminologyenc.com/en/browse/category/3",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الشرك"
+      },
+      {
+        "id": "dorar_aqeedah",
+        "name": "الدرر السنية — الموسوعة العقدية",
+        "url": "https://dorar.net/aqeeda",
+        "kind": "secondary_creed_reference",
+        "verification_locator": "الدرر السنية / الموسوعة العقدية — ابحث عن: الشرك"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الكفر",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_creed",
+        "name": "TerminologyEnc — العقيدة",
+        "url": "https://terminologyenc.com/en/browse/category/3",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الكفر"
+      },
+      {
+        "id": "dorar_aqeedah",
+        "name": "الدرر السنية — الموسوعة العقدية",
+        "url": "https://dorar.net/aqeeda",
+        "kind": "secondary_creed_reference",
+        "verification_locator": "الدرر السنية / الموسوعة العقدية — ابحث عن: الكفر"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "التقوى",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_creed",
+        "name": "TerminologyEnc — العقيدة",
+        "url": "https://terminologyenc.com/en/browse/category/3",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: التقوى"
+      },
+      {
+        "id": "dorar_aqeedah",
+        "name": "الدرر السنية — الموسوعة العقدية",
+        "url": "https://dorar.net/aqeeda",
+        "kind": "secondary_creed_reference",
+        "verification_locator": "الدرر السنية / الموسوعة العقدية — ابحث عن: التقوى"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الذكر",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc",
+        "name": "TerminologyEnc — موسوعة المصطلحات الإسلامية المترجمة",
+        "url": "https://terminologyenc.com",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الذكر"
+      },
+      {
+        "id": "icadb",
+        "name": "ICADB — القاعدة المركزية للمحتوى الإسلامي باللغات",
+        "url": "https://icadb.com",
+        "kind": "trusted_translation_repository",
+        "verification_locator": "ICADB — lookup key / Arabic term: الذكر"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الدعاء",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc",
+        "name": "TerminologyEnc — موسوعة المصطلحات الإسلامية المترجمة",
+        "url": "https://terminologyenc.com",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الدعاء"
+      },
+      {
+        "id": "icadb",
+        "name": "ICADB — القاعدة المركزية للمحتوى الإسلامي باللغات",
+        "url": "https://icadb.com",
+        "kind": "trusted_translation_repository",
+        "verification_locator": "ICADB — lookup key / Arabic term: الدعاء"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الجهاد",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الجهاد"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: الجهاد"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الخمر",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الخمر"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: الخمر"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الصلاة",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الصلاة"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: الصلاة"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "النية",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: النية"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: النية"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الطهارة",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الطهارة"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: الطهارة"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الغسل",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الغسل"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: الغسل"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "القبلة",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: القبلة"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: القبلة"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الأذان",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الأذان"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: الأذان"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الركوع",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الركوع"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: الركوع"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "السجود",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: السجود"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: السجود"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الإحرام",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الإحرام"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: الإحرام"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الكفارة",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الكفارة"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: الكفارة"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الوقف",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الوقف"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: الوقف"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "العدة",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: العدة"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: العدة"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الحجاب",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الحجاب"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: الحجاب"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "العورة",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: العورة"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: العورة"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "النكاح",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: النكاح"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: النكاح"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "المهر",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_fiqh",
+        "name": "TerminologyEnc — الفقه وأصوله",
+        "url": "https://terminologyenc.com/en/browse/category/4",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: المهر"
+      },
+      {
+        "id": "kuwait_fiqh",
+        "name": "الموسوعة الفقهية الكويتية",
+        "url": "https://feqh.kuwaitenc.com",
+        "kind": "secondary_fiqh_reference",
+        "verification_locator": "الموسوعة الفقهية الكويتية — مادة: المهر"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الإيمان",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_creed",
+        "name": "TerminologyEnc — العقيدة",
+        "url": "https://terminologyenc.com/en/browse/category/3",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الإيمان"
+      },
+      {
+        "id": "dorar_aqeedah",
+        "name": "الدرر السنية — الموسوعة العقدية",
+        "url": "https://dorar.net/aqeeda",
+        "kind": "secondary_creed_reference",
+        "verification_locator": "الدرر السنية / الموسوعة العقدية — ابحث عن: الإيمان"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "القدر",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_creed",
+        "name": "TerminologyEnc — العقيدة",
+        "url": "https://terminologyenc.com/en/browse/category/3",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: القدر"
+      },
+      {
+        "id": "dorar_aqeedah",
+        "name": "الدرر السنية — الموسوعة العقدية",
+        "url": "https://dorar.net/aqeeda",
+        "kind": "secondary_creed_reference",
+        "verification_locator": "الدرر السنية / الموسوعة العقدية — ابحث عن: القدر"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "البدعة",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc_creed",
+        "name": "TerminologyEnc — العقيدة",
+        "url": "https://terminologyenc.com/en/browse/category/3",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: البدعة"
+      },
+      {
+        "id": "dorar_aqeedah",
+        "name": "الدرر السنية — الموسوعة العقدية",
+        "url": "https://dorar.net/aqeeda",
+        "kind": "secondary_creed_reference",
+        "verification_locator": "الدرر السنية / الموسوعة العقدية — ابحث عن: البدعة"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "التوبة",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc",
+        "name": "TerminologyEnc — موسوعة المصطلحات الإسلامية المترجمة",
+        "url": "https://terminologyenc.com",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: التوبة"
+      },
+      {
+        "id": "icadb",
+        "name": "ICADB — القاعدة المركزية للمحتوى الإسلامي باللغات",
+        "url": "https://icadb.com",
+        "kind": "trusted_translation_repository",
+        "verification_locator": "ICADB — lookup key / Arabic term: التوبة"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الاستغفار",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc",
+        "name": "TerminologyEnc — موسوعة المصطلحات الإسلامية المترجمة",
+        "url": "https://terminologyenc.com",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الاستغفار"
+      },
+      {
+        "id": "icadb",
+        "name": "ICADB — القاعدة المركزية للمحتوى الإسلامي باللغات",
+        "url": "https://icadb.com",
+        "kind": "trusted_translation_repository",
+        "verification_locator": "ICADB — lookup key / Arabic term: الاستغفار"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  },
+  {
+    "term": "الشهيد",
+    "rule_provenance": "curated",
+    "grounding_status": "reference_family_grounded",
+    "source_refs": [
+      {
+        "id": "terminologyenc",
+        "name": "TerminologyEnc — موسوعة المصطلحات الإسلامية المترجمة",
+        "url": "https://terminologyenc.com",
+        "kind": "trusted_terminology_reference",
+        "verification_locator": "TerminologyEnc — ابحث عن المصطلح العربي: الشهيد"
+      },
+      {
+        "id": "icadb",
+        "name": "ICADB — القاعدة المركزية للمحتوى الإسلامي باللغات",
+        "url": "https://icadb.com",
+        "kind": "trusted_translation_repository",
+        "verification_locator": "ICADB — lookup key / Arabic term: الشهيد"
+      }
+    ],
+    "policy_note": "المصدر يؤصل معنى المصطلح؛ تصنيف المقابل الإنجليزي كـ accepted/risky/review هو سياسة سلامة هندسية في مِعيار، وليس فتوى أو اقتباسًا حرفيًا من المصدر.",
+    "traceability_status": "direct_rule_to_source_locator"
+  }
+]

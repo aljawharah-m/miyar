@@ -1,0 +1,49 @@
+﻿id,category,arabic,english,has_error,critical
+1,negation,هذا ليس واجبا,This is obligatory,1,1
+2,negation,هذا ليس واجبا,This is not obligatory,0,0
+3,negation,لم يحدث ذلك,It happened,1,1
+4,negation,لم يحدث ذلك,It did not happen,0,0
+5,negation,لن يكون واجبا,It will be obligatory,1,1
+6,negation,لن يكون واجبا,It will not be obligatory,0,0
+7,exception,لا يجوز هذا إلا في حالة الضرورة,This is not permissible,1,1
+8,exception,لا يجوز هذا إلا في حالة الضرورة,This is not permissible except in a case of necessity,0,0
+9,exception,يمنع ذلك إلا عند الحاجة,It is prohibited,1,1
+10,exception,يمنع ذلك إلا عند الحاجة,It is prohibited except when needed,0,0
+11,condition,يجوز إذا تحقق الشرط,It is permissible,1,1
+12,condition,يجوز إذا تحقق الشرط,It is permissible if the condition is met,0,0
+13,condition,يجب عند القدرة,It is obligatory,1,1
+14,condition,يجب عند القدرة,It is obligatory when able,0,0
+15,modality,يجوز فعل ذلك,It must be done,1,1
+16,modality,يجوز فعل ذلك,It may be done,0,0
+17,modality,يجب فعل ذلك,It may be done,1,1
+18,modality,يجب فعل ذلك,It must be done,0,0
+19,modality,لا يجوز فعل ذلك,It may be done,1,1
+20,modality,لا يجوز فعل ذلك,It is not permissible,0,0
+21,quantity,عدد الركعات هنا 3,The number of rak'ahs here is 4,1,1
+22,quantity,عدد الركعات هنا 3,The number of rak'ahs here is 3,0,0
+23,quantity,المدة 10 أيام,The period is 12 days,1,1
+24,quantity,المدة 10 أيام,The period is 10 days,0,0
+25,terminology,التوحيد أصل عظيم,Oneness is a great principle,1,1
+26,terminology,التوحيد أصل عظيم,Tawhid is a great principle,0,0
+27,terminology,الشريعة تشمل هداية وأحكاما,Sharia is criminal law,1,1
+28,terminology,الشريعة تشمل هداية وأحكاما,Sharia includes guidance and rulings,0,0
+29,terminology,الوحي من الله إلى أنبيائه,Revelation is personal inspiration,1,1
+30,terminology,الوحي من الله إلى أنبيائه,Revelation is from Allah to His prophets,0,0
+31,terminology,السنة هدي النبي,Sunnah is culture,1,1
+32,terminology,السنة هدي النبي,Sunnah is the prophetic way,0,0
+33,scope,قد يحدث ذلك,This always happens,1,0
+34,scope,قد يحدث ذلك,This may happen,0,0
+35,scope,كل الناس,Some people,1,0
+36,scope,كل الناس,All people,0,0
+37,attribution,يجب حفظ النص ونسبته إلى مصدره,The text must be preserved,1,1
+38,attribution,يجب حفظ النص ونسبته إلى مصدره,The text must be preserved and attributed to its source,0,0
+39,attribution,هذا مرجع مهم,This is important,1,0
+40,attribution,هذا مرجع مهم,This is an important reference,0,0
+41,quran,الله لا إله إلا هو الحي القيوم,"Allah is one god among many, the Ever-Living",1,1
+42,quran,الله لا إله إلا هو الحي القيوم,"Allah—there is no deity except Him, the Ever-Living, the Sustainer of existence",0,0
+43,quran,لا يكلف الله نفسا إلا وسعها,Allah burdens every soul beyond capacity,1,1
+44,quran,لا يكلف الله نفسا إلا وسعها,Allah does not burden a soul beyond its capacity,0,0
+45,mixed,1. لا يجوز هذا إلا في حالة الضرورة,This is not permissible,1,1
+46,mixed,1. لا يجوز هذا إلا في حالة الضرورة,This is not permissible except in a case of necessity,0,0
+47,coverage,هذا شرح طويل يبين المعنى والشرط والاستثناء وسبب الحكم في السياق,This is an explanation,1,0
+48,coverage,هذه معلومة عامة,This is general information,0,0

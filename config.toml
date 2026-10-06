@@ -1,0 +1,8 @@
+[server]
+# Avoid Streamlit introspecting every lazily-loaded Transformers vision module.
+# Mi'yar is text-only; disabling the source watcher removes irrelevant torchvision
+# import warnings on Windows and reduces first-run noise/startup overhead.
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false

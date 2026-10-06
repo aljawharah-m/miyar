@@ -1,0 +1,66 @@
+[
+  {
+    "name": "QuranEnc",
+    "url": "https://quranenc.com",
+    "api": "https://quranenc.com/ar/home/api/",
+    "role": "ترجمات معاني القرآن",
+    "integration": "live_when_recognized",
+    "evidence_policy": "used_only_on_live_retrieval",
+    "metadata_fields": [
+      "translation_key",
+      "source_version",
+      "source_last_update",
+      "retrieved_at",
+      "url"
+    ]
+  },
+  {
+    "name": "HadeethEnc",
+    "url": "https://hadeethenc.com",
+    "api": "https://hadeethenc.com/api-docs",
+    "role": "الأحاديث الصحيحة وشروحها وترجماتها",
+    "integration": "live_when_recognized",
+    "evidence_policy": "used_only_on_live_retrieval",
+    "metadata_fields": [
+      "source_version_if_provided",
+      "retrieved_at",
+      "url"
+    ]
+  },
+  {
+    "name": "TerminologyEnc",
+    "url": "https://terminologyenc.com",
+    "role": "المصطلحات الشرعية",
+    "integration": "reference_route_only",
+    "evidence_policy": "recommended_unless_explicitly_retrieved_or_curated"
+  },
+  {
+    "name": "IslamEnc",
+    "url": "https://islamenc.com/ar",
+    "role": "محتوى إسلامي متعدد اللغات",
+    "integration": "reference_route_only",
+    "evidence_policy": "recommended_unless_explicitly_retrieved_or_curated"
+  },
+  {
+    "name": "Byenah",
+    "url": "https://byenah.com",
+    "role": "مواد تعريفية وتعليمية",
+    "integration": "reference_route_only",
+    "evidence_policy": "recommended_unless_explicitly_retrieved_or_curated"
+  },
+  {
+    "name": "IslamHouse",
+    "url": "https://islamhouse.com",
+    "role": "محتوى إسلامي متعدد اللغات",
+    "integration": "reference_route_only",
+    "evidence_policy": "recommended_unless_explicitly_retrieved_or_curated"
+  },
+  {
+    "name": "ICADB",
+    "url": "https://icadb.com",
+    "api": "https://icadb.com/api/docs/",
+    "role": "القاعدة المركزية والترجمات المعتمدة",
+    "integration": "locator_fallback_and_health",
+    "evidence_policy": "recommended_unless_explicitly_retrieved_or_curated"
+  }
+]
