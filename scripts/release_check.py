@@ -1,11 +1,25 @@
 from __future__ import annotations
 
+import os
 import re
 import subprocess
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+
+# Ensure release-check child scripts can import the project package
+# regardless of the caller's working directory or PYTHONPATH.
+_MIYAR_CHILD_PYTHONPATH = str(ROOT)
+_existing_pythonpath = os.environ.get("PYTHONPATH")
+os.environ["PYTHONPATH"] = (
+    _MIYAR_CHILD_PYTHONPATH
+    if not _existing_pythonpath
+    else _MIYAR_CHILD_PYTHONPATH + os.pathsep + _existing_pythonpath
+)
+
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
 
 # Directories that are generated locally or belong to third-party dependencies.
 # They must never be treated as project source during the release secret scan.

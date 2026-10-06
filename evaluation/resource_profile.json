@@ -3,12 +3,12 @@
   "mode": "offline deterministic layers; live retrieval and semantic model disabled",
   "calls": 30,
   "latency_ms": {
-    "median": 1051.36,
-    "p95": 1270.703,
-    "max": 1485.197
+    "median": 1381.204,
+    "p95": 1493.765,
+    "max": 1569.709
   },
   "memory": {
-    "python_tracemalloc_peak_mib": 0.465,
+    "python_tracemalloc_peak_mib": 0.471,
     "process_peak_rss_mib": null,
     "process_peak_rss_source": null
   },
