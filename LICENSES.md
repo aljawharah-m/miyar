@@ -1,5 +1,23 @@
 # LICENSES AND THIRD-PARTY TERMS
 
+## Upstream verification references
+
+Third-party software and reference content remain governed by their upstream licenses and terms. Public availability of this repository does not relicense external content.
+
+| Component / Source | Upstream reference |
+|---|---|
+| paraphrase-multilingual-MiniLM-L12-v2 | https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 |
+| Streamlit | https://github.com/streamlit/streamlit |
+| Requests | https://github.com/psf/requests |
+| LaTeX quran package | https://ctan.org/pkg/quran |
+| QuranEnc | https://quranenc.com/en/ |
+| HadeethEnc | https://hadeethenc.com/en/home |
+
+For QuranEnc and HadeethEnc content, the upstream Terms and Policies control redistribution. Mi'yar preserves source attribution and available version/retrieval metadata and does not treat external content as project-owned material.
+
+---
+
+
 ## Software dependencies
 - `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2` — Apache-2.0 model license.
 - Sentence Transformers — Apache-2.0.
