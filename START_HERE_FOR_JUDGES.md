@@ -1,5 +1,19 @@
 # مِعيار 1.0 — ابدأ من هنا
 
+## Judge Quick Access
+
+| Resource | Link |
+|---|---|
+| Live Demo | https://miyar-gate.streamlit.app/ |
+| 2-minute Demo Video | https://drive.google.com/file/d/1wZnfSNLZjkicoM3Fa1lVwUVDSPO_dU5E/view?usp=sharing |
+| Source Code | https://github.com/aljawharah-m/miyar |
+| Quick Verification | python scripts/judge_verify.py |
+
+> Evaluation claims in this repository are Development/Audit evidence within the documented test scope, not a claim of universal religious accuracy.
+
+---
+
+
 **المسار:** صناعة المحتوى متعدد اللغات والتوطين الثقافي
 **مواءمة المسار:** النسخة الحالية تركز بعمق على طبقة الأمان السابقة للتوطين: المحافظة على الدلالة الشرعية ودقة المصطلحات، ولا تدعي تنفيذ التوطين الثقافي الكامل.
 **النطاق:** مراجعة ترجمة عربية→إنجليزية موجودة قبل النشر
