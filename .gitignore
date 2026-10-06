@@ -1,0 +1,7 @@
+.streamlit/secrets.toml
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+data/miyar_reviews.sqlite3
+*.log
