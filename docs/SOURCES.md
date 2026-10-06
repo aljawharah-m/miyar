@@ -1,5 +1,24 @@
 # SOURCES
 
+## Judge Source Classification
+
+| Source / Resource | Role in Mi'yar | Evidence status |
+|---|---|---|
+| QuranEnc | Quran reference retrieval and verification when retrieval succeeds | Can become live evidence only after successful retrieval |
+| HadeethEnc | Hadith reference retrieval and verification when retrieval succeeds | Can become live evidence only after successful retrieval |
+| Local Quran locator | Local reference recognition / ambiguity detection | Locator only; not external verification |
+| Local terminology provenance | Curated terminology safety rules | Local curated rule with documented provenance |
+| TerminologyEnc / ICADB | Supporting terminology/reference routes when applicable | Not automatically evidence-used |
+| Dorar / Kuwaiti Fiqh Encyclopedia / Byenah / IslamHouse / IslamEnc | Supporting domain references | Documentary/supporting unless explicitly retrieved and used |
+| Challenge official material | Challenge terminology examples and reference-policy context | Development/reference material |
+
+**Important:** source availability or reference recognition alone never verifies the user translation. Mi'yar records live evidence only when retrieval actually succeeds; insufficient or conflicting evidence routes the case to Human Review.
+
+For deeper provenance and licensing details, see docs/SOURCE_PROVENANCE.md, docs/TERMINOLOGY_PROVENANCE_MATRIX.md, and LICENSES.md.
+
+---
+
+
 ## المصادر بحسب طريقة الاستخدام
 - **QuranEnc**: ترجمة الآية عند التعرف على المرجع ونجاح الاسترجاع.
 - **HadeethEnc**: البطاقة العربية/الإنجليزية عند التعرف على الحديث ونجاح الاسترجاع.
