@@ -1,0 +1,28 @@
+{
+  "alignment_pairs": 45,
+  "raw_signals": 174,
+  "root_issues": 57,
+  "suppressed_signals": 117,
+  "exact_duplicate_roots": 0,
+  "all_public_roots_have_aligned_context": true,
+  "generic_uncertainty_segment_34_public": false,
+  "specific_numeric_date_roots_segment_34": [
+    "DATE_AMBIGUITY_COLLAPSE",
+    "DECIMAL_VALUE_CORRUPTION",
+    "SIGNED_NUMBER_CONTRADICTION"
+  ],
+  "true_uncertainty_segments": [
+    13,
+    32
+  ],
+  "terminology_fallback_noise": false,
+  "malformed_750_or_30": false,
+  "stability_runs": 20,
+  "stable": true,
+  "mirror": {
+    "arabic_reader": "يفهم الأصل مع العنصر الحساس: التصريح بعدم القدرة على التحقق",
+    "english_reader": "الأصل يطلب التصريح بعدم القدرة على التحقق، بينما الترجمة تسمح بإدخال مرجع بديل يبدو موثوقًا.",
+    "gap": "قد ينشئ نسبة دينية أو مرجعية بلا سند."
+  },
+  "status": "critical"
+}

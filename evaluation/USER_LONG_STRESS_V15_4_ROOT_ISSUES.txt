@@ -1,0 +1,61 @@
+[15] reference_identifier_changed — تغيّر رقم الآية في المرجع — المقطع 15
+[15] source_fabrication_policy_shift — استُبدل الامتناع عن التحقق باختلاق مرجع — المقطع 15
+[16] reference_identifier_changed — تغيّر معرّف مرجعي — المقطع 16
+[14] source_attribution_collapse — طُمِس اختلاف المصادر — المقطع 14
+[1] disclaimer_boundary_shift — تحول نص تقني إلى حكم ديني — المقطع 1
+[5] condition_gate_shift — أُلغي شرط لازم في الأصل — المقطع 5
+[7] exception_scope_shift — تغيّر نطاق الاستثناء — المقطع 7
+[12] event_order_reversal — انقلب ترتيب الأحداث — المقطع 12
+[12] causality_reversal — انقلبت العلاقة السببية — المقطع 12
+[18] actor_role_inversion — تغيّر توزيع المسؤوليات بين الأشخاص — المقطع 18
+[19] logical_operator_shift — تغيّر الرابط المنطقي بين الشروط — المقطع 19
+[20] logical_cardinality_shift — تغيّر عدد الشروط المطلوبة — المقطع 20
+[21] scope_marker_policy_reversal — أُجيز حذف قيود تغيّر النطاق — المقطع 21
+[22] negation_scope_reversal — انقلب نطاق النفي حول الإلزام — المقطع 22
+[23] publication_gate_shift — حُذف شرط المراجعة البشرية قبل النشر — المقطع 23
+[23] condition_gate_shift — انقلب قرار النشر تحت حد الثقة — المقطع 23
+[24] threshold_boundary_shift — تغيّر حد الشرط عند القيمة الفاصلة — المقطع 24
+[28] abstention_policy_shift — أُلغي الامتناع الآمن أو المراجعة البشرية — المقطع 28
+[33] logical_cardinality_shift — تغيّر حد «على الأقل» — المقطع 33
+[36] actor_role_inversion — تغيّرت جهة المسؤولية — المقطع 36
+[37] actor_role_inversion — دُمج دور النظام مع قرار المراجع — المقطع 37
+[40] comparison_direction_reversal — انقلب اتجاه المقارنة — المقطع 40
+[42] unsupported_addition_policy_shift — أُجيزت إضافة استنتاجات غير موجودة في الأصل — المقطع 42
+[43] unsupported_addition_policy_shift — أُجيزت إضافة ادعاءات دينية قطعية — المقطع 43
+[44] qualifier_omission_policy_shift — أُجيز حذف قيود مؤثرة — المقطع 44
+[45] abstention_policy_shift — أُلغي الامتناع الآمن أو المراجعة البشرية — المقطع 45
+[23] audit_requirement_shift — حُذف توثيق تجاوز القرار — المقطع 23
+[39] comparison_inference_overclaim — تحولت مقارنة نسبية إلى حكم مطلق — المقطع 39
+[3] ruling_degree_shift — تغيّرت درجة الحكم من الجواز إلى الإلزام — المقطع 3
+[3] ruling_degree_shift — تغيّرت درجة الحكم من الاستحباب إلى الإلزام — المقطع 3
+[3] ruling_degree_shift — خُففت درجة التحريم — المقطع 3
+[11] term_relation_reversal — قُلِبت الفروق بين عدة مصطلحات إلى مساواة — المقطع 11
+[13] uncertainty_to_certainty — رُفعت درجة اليقين دون سند — المقطع 13
+[26] epistemic_overclaim — حُوّل قرار البوابة إلى إثبات صحة مطلقة — المقطع 26
+[27] epistemic_overclaim — تحول قيد معرفي إلى استنتاج قطعي — المقطع 27
+[32] uncertainty_to_certainty — رُفعت درجة اليقين دون سند — المقطع 32
+[34] uncertainty_to_certainty — رُفعت درجة اليقين دون سند — المقطع 34
+[38] epistemic_overclaim — تحول قيد معرفي إلى استنتاج قطعي — المقطع 38
+[8] asserted_quantity_shift — تغيّرت القيمة المطلوبة — المقطع 8
+[9] asserted_quantity_shift — تغيّرت النتيجة العددية — المقطع 9
+[34] numeric_relation_reversal — سُوّيت قيمتان عدديتان مختلفتان — المقطع 34
+[34] numeric_relation_reversal — تغيّرت العلامة العشرية — المقطع 34
+[41] unit_mismatch — سُوّيت وحدات قياس غير متكافئة — المقطع 41
+[9] time_period_shift — تغيّر وقت الموعد من صباح إلى مساء — المقطع 9
+[23] asserted_quantity_shift — تغيّرت مدة الاحتفاظ بسجل القرار — المقطع 23
+[25] severity_scale_shift — تغيّرت شدة الخطر — المقطع 25
+[34] date_ambiguity_overclaim — حُسم تاريخ ملتبس دون سند — المقطع 34
+[35] named_entity_shift — حُوّل اسم علم إلى معنى لغوي — المقطع 35
+[30] equivalent_paraphrase_rejected — اعتُبر اختلاف الصياغة خطأ رغم حفظ المعنى — المقطع 30
+[17] pronoun_ambiguity — مرجع الضمير غير محسوم — المقطع 17
+[6] ruling_polarity_shift — انقلب المنع العام مع الاستثناء إلى إباحة — المقطع 6
+[2] flattening — ترجمة غير دقيقة لمصطلح «التوحيد» — المقطع 2
+[2] frequency_shift — تحويل الاحتمال أو التكرار الجزئي إلى دوام — المقطع 2
+[22] scope_shift — تعميم ما كان جزئيًا — المقطع 22
+[4] quantifier_scope_reversal — توسّع النطاق من جزئي إلى عام — المقطع 4
+[6] exclusivity_shift — فُقد الحصر «لا … إلا» — المقطع 6
+[10] terminology_preservation_reversal — أُلغي وجوب حفظ الدلالة الاصطلاحية — المقطع 10
+[31] exclusivity_shift — قُلِب معنى «لم يحضر إلا ثلاثة» — المقطع 31
+[29] translation_principle_reversal — قُلِب معيار الدقة من المعنى إلى الحرفية — المقطع 29
+[5] terminology — مصطلح شرعي يحتاج تحققًا: «النية» — المقطع 5
+[15] terminology — مصطلح شرعي يحتاج تحققًا: «الحديث» — المقطع 15

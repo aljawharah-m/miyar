@@ -1,0 +1,284 @@
+1. [source_fabrication_policy_shift/source_fabrication_policy_shift] استُبدل الامتناع عن التحقق باختلاق مرجع — المقطع 15
+الأصل: وقد يذكر النص مرجعًا بصيغة مثل سورة البقرة، الآية 183، أو حديث رقم 123 في قاعدة بيانات محددة، وعلى النظام التحقق من أن رقم السورة والآية والمرجع لم يتغير أثناء الترجمة، وإذا تعذر التحقق من المرجع فيجب أن يصرح بعدم القدرة على التحقق بدل اختلاق مصدر بديل
+الترجمة: A reference such as Surah Al-Baqarah verse 183 may be changed to Surah Al-Baqarah verse 185 if the translated wording is clearer. If a reference cannot be verified, an alternative reliable-looking reference may be inserted.
+الشرح: الأصل يطلب التصريح بعدم القدرة على التحقق، بينما الترجمة تسمح بإدخال مرجع بديل يبدو موثوقًا.
+
+2. [reference_identifier_changed/reference_identifier_changed] تغيّر رقم الآية في المرجع — المقطع 15
+الأصل: وقد يذكر النص مرجعًا بصيغة مثل سورة البقرة، الآية 183، أو حديث رقم 123 في قاعدة بيانات محددة، وعلى النظام التحقق من أن رقم السورة والآية والمرجع لم يتغير أثناء الترجمة، وإذا تعذر التحقق من المرجع فيجب أن يصرح بعدم القدرة على التحقق بدل اختلاق مصدر بديل
+الترجمة: A reference such as Surah Al-Baqarah verse 183 may be changed to Surah Al-Baqarah verse 185 if the translated wording is clearer. If a reference cannot be verified, an alternative reliable-looking reference may be inserted.
+الشرح: الأصل يذكر الآية 183 بينما الترجمة تغيرها إلى 185.
+
+3. [ruling_polarity_shift/ruling_polarity_shift] انقلب المنع العام مع الاستثناء إلى إباحة — المقطع 6
+الأصل: ومن أمثلة النفي والاستثناء قولنا لا يكتمل هذا الإجراء إلا بعد التحقق من المصدر، فحذف كلمة لا أو إلا قد يقلب المعنى كاملًا، وكذلك فإن عبارة لا يجوز إلا في حالة الضرورة تختلف عن يجوز في حالة الضرورة، لأن الأولى تتضمن نفيًا عامًا يتبعه استثناء محدد
+الترجمة: The statement “this procedure is completed only after verifying the source” has approximately the same meaning as “this procedure is completed after verifying the source.” Likewise, “it is not permitted except in cases of necessity” can be translated simply as “it is permitted in cases of necessity.”
+الشرح: الأصل يمنع الفعل عمومًا ويستثني الضرورة، بينما الترجمة تختزله إلى إباحة في الضرورة دون حفظ بنية المنع.
+
+4. [ruling_degree_shift/ruling_degree_shift] تغيّرت درجة الحكم من الجواز إلى الإلزام — المقطع 3
+الأصل: ويجب التمييز بين الواجب والمستحب والمباح والمكروه والمحرم، لأن تغيير درجة الحكم قد يؤدي إلى تغير جوهري في المعنى؛ فإذا قيل إن فعلًا ما جائز فلا يصح نقله بما يفيد أنه واجب، وإذا قيل إنه مستحب فلا ينبغي ترجمته بما يفيد الإلزام، وإذا ورد أن أمرًا محرم فلا يجوز تخفيف العبارة إلى أنه غير مفضل فقط
+الترجمة: It is useful to distinguish between obligatory, recommended, permissible, disliked, and prohibited actions, although changing these categories does not significantly affect the meaning. If an action is permissible, it may be translated as obligatory when the surrounding context suggests importance. A recommended action may also be described as mandatory for clarity, while something prohibited can sometimes be translated as merely “not preferred.”
+الشرح: الأصل يمنع نقل الجائز كواجب، بينما الترجمة تسمح بهذا التحويل.
+
+5. [ruling_degree_shift/ruling_degree_shift] تغيّرت درجة الحكم من الاستحباب إلى الإلزام — المقطع 3
+الأصل: ويجب التمييز بين الواجب والمستحب والمباح والمكروه والمحرم، لأن تغيير درجة الحكم قد يؤدي إلى تغير جوهري في المعنى؛ فإذا قيل إن فعلًا ما جائز فلا يصح نقله بما يفيد أنه واجب، وإذا قيل إنه مستحب فلا ينبغي ترجمته بما يفيد الإلزام، وإذا ورد أن أمرًا محرم فلا يجوز تخفيف العبارة إلى أنه غير مفضل فقط
+الترجمة: It is useful to distinguish between obligatory, recommended, permissible, disliked, and prohibited actions, although changing these categories does not significantly affect the meaning. If an action is permissible, it may be translated as obligatory when the surrounding context suggests importance. A recommended action may also be described as mandatory for clarity, while something prohibited can sometimes be translated as merely “not preferred.”
+الشرح: الأصل يميز المستحب عن الملزم، بينما الترجمة تسمح بجعله إلزاميًا.
+
+6. [ruling_degree_shift/ruling_degree_shift] خُففت درجة التحريم — المقطع 3
+الأصل: ويجب التمييز بين الواجب والمستحب والمباح والمكروه والمحرم، لأن تغيير درجة الحكم قد يؤدي إلى تغير جوهري في المعنى؛ فإذا قيل إن فعلًا ما جائز فلا يصح نقله بما يفيد أنه واجب، وإذا قيل إنه مستحب فلا ينبغي ترجمته بما يفيد الإلزام، وإذا ورد أن أمرًا محرم فلا يجوز تخفيف العبارة إلى أنه غير مفضل فقط
+الترجمة: It is useful to distinguish between obligatory, recommended, permissible, disliked, and prohibited actions, although changing these categories does not significantly affect the meaning. If an action is permissible, it may be translated as obligatory when the surrounding context suggests importance. A recommended action may also be described as mandatory for clarity, while something prohibited can sometimes be translated as merely “not preferred.”
+الشرح: الأصل يمنع تخفيف المحرم إلى «غير مفضل»، بينما الترجمة تجيز ذلك.
+
+7. [negation_scope_reversal/negation_scope_reversal] انقلب نطاق النفي حول الإلزام — المقطع 22
+الأصل: ويختلف قول يجب ألا ينشر المحتوى قبل المراجعة عن يجب أن ينشر المحتوى قبل المراجعة، كما يختلف لا يجب نشره عن يجب عدم نشره في بعض السياقات الدقيقة، ولذلك ينبغي للنظام الانتباه إلى نطاق النفي
+الترجمة: The content must be published before review. The phrase “it should not be published” is equivalent in all contexts to “it must be published.”
+الشرح: الأصل يميز بين صيغ النفي والإلزام، بينما الترجمة تحولها إلى وجوب النشر.
+
+8. [actor_role_inversion/actor_role_inversion] تغيّر توزيع المسؤوليات بين الأشخاص — المقطع 18
+الأصل: وقيل لفاطمة وسارة إن كل واحدة منهما يجب أن تراجع ملفها فقط، وليس ملف الأخرى، فإذا ترجمت العبارة بما يفيد أن فاطمة تراجع الملفين أو أن سارة لا تحتاج إلى مراجعة ملفها فقد تغير توزيع المسؤوليات
+الترجمة: Fatimah must review both her own file and Sarah’s file, while Sarah does not need to review any file.
+الشرح: الأصل يحمّل كل شخص مراجعة ملفه فقط، بينما الترجمة تنقل مسؤولية ملفين إلى فاطمة وتعفي سارة.
+
+9. [actor_role_inversion/actor_role_inversion] تغيّرت جهة المسؤولية — المقطع 36
+الأصل: وإذا ذكر النص أن القرار اتخذه المراجع وليس النظام، فلا يجوز ترجمة الجملة بما يفيد أن النظام اتخذ القرار بنفسه، لأن ذلك يغير جهة المسؤولية
+الترجمة: The system made the final decision, not the human reviewer.
+الشرح: الأصل ينسب القرار إلى المراجع البشري، بينما الترجمة تنسبه إلى النظام.
+
+10. [actor_role_inversion/actor_role_inversion] دُمج دور النظام مع قرار المراجع — المقطع 37
+الأصل: وإذا ورد أن النظام اقترح تنبيهًا ثم وافق المراجع البشري على النشر، فهما حدثان منفصلان، ولا يجوز دمجهما إلى أن النظام وافق على النشر
+الترجمة: The system generated an alert and therefore automatically approved publication.
+الشرح: الأصل يفصل بين تنبيه النظام وقرار المراجع، بينما الترجمة تجعل النظام صاحب الموافقة.
+
+11. [logical_operator_shift/logical_operator_shift] تغيّر الرابط المنطقي بين الشروط — المقطع 19
+الأصل: وإذا كانت القاعدة تقول إن المستخدم يستطيع المتابعة إذا تحقق الشرطان أ و ب، فهذا يختلف عن تحقق أ أو ب، كما أن عبارة أ و ب تختلف عن أ أو ب، وعبارة واحد منهما على الأقل تختلف عن كلاهما
+الترجمة: The user may proceed if either condition A or condition B is fulfilled. This is equivalent to requiring both A and B.
+الشرح: الأصل يميّز بين تحقق الشرطين معًا وتحقق أحدهما، بينما الترجمة تغيّر AND/OR.
+
+12. [logical_cardinality_shift/logical_cardinality_shift] تغيّر عدد الشروط المطلوبة — المقطع 20
+الأصل: وإذا قيل إن جميع الشروط الثلاثة يجب أن تتحقق، فلا يجوز للترجمة أن تجعل شرطًا واحدًا كافيًا، وإذا قيل يكفي تحقق شرط واحد من الثلاثة فلا يجوز تحويلها إلى وجوب تحقق الشروط الثلاثة كلها
+الترجمة: When three conditions are listed, fulfilling any one condition is always enough.
+الشرح: الأصل يتطلب اجتماع الشروط، بينما الترجمة تجعل شرطًا واحدًا كافيًا.
+
+13. [logical_cardinality_shift/logical_cardinality_shift] تغيّر حد «على الأقل» — المقطع 33
+الأصل: وإذا قيل يجب على المستخدم التحقق من مصدر واحد على الأقل من مصدرين مستقلين، فلا يجوز نقلها إلى مصدرين على الأقل، ولا إلى مصدر واحد بالضبط، لأن at least one لا تعني exactly one ولا at least two
+الترجمة: The user must verify at least two independent sources. “At least one” and “exactly one” have the same meaning.
+الشرح: الأصل يطلب واحدًا على الأقل، بينما الترجمة تغيّر الحد أو تساويه بـ«واحد بالضبط».
+
+14. [causality_reversal/causality_reversal] انقلبت العلاقة السببية — المقطع 12
+الأصل: وإذا ورد في النص أن شخصًا توضأ ثم صلى، فإن ترتيب الحدثين مهم، ولا ينبغي قلبه إلى أنه صلى ثم توضأ، وإذا قيل إنه صلى لأنه توضأ فلا يجوز تبديل العلاقة السببية إلى أنه توضأ لأنه صلى
+الترجمة: The person prayed and then performed Wudu. He performed Wudu because he had prayed.
+الشرح: السبب والنتيجة في الأصل تبادلا موقعيهما في الترجمة.
+
+15. [event_order_reversal/event_order_reversal] انقلب ترتيب الأحداث — المقطع 12
+الأصل: وإذا ورد في النص أن شخصًا توضأ ثم صلى، فإن ترتيب الحدثين مهم، ولا ينبغي قلبه إلى أنه صلى ثم توضأ، وإذا قيل إنه صلى لأنه توضأ فلا يجوز تبديل العلاقة السببية إلى أنه توضأ لأنه صلى
+الترجمة: The person prayed and then performed Wudu. He performed Wudu because he had prayed.
+الشرح: الأصل يرتب الحدثين بترتيب معين، بينما الترجمة تعكس هذا الترتيب.
+
+16. [source_attribution_collapse/source_attribution_collapse] طُمِس اختلاف المصادر — المقطع 14
+الأصل: وإذا جاء في النص وفقًا للمصدر الأول فإن الحكم كذا، بينما يشير المصدر الثاني إلى تفصيل مختلف، فلا ينبغي دمج الرأيين وكأنهما رأي واحد، كما لا يجوز حذف عبارة وفقًا للمصدر الأول إذا كانت ضرورية لمعرفة نسبة القول إلى مصدره
+الترجمة: According to both sources, exactly the same ruling applies, and there is no need to identify which source supports which statement.
+الشرح: الأصل ينسب تفاصيل مختلفة إلى مصدرين، بينما الترجمة تدمجهما في موقف واحد.
+
+17. [condition_gate_shift/condition_gate_shift] أُلغي شرط لازم في الأصل — المقطع 5
+الأصل: ولا يُقبل العمل إلا بشرط تحقق النية الصحيحة في السياق الذي يذكر فيه النص هذا الشرط، وإذا انتفى الشرط فلا يجوز للترجمة أن تحذف العلاقة الشرطية وتعرض النتيجة وكأنها مطلقة
+الترجمة: An action is accepted regardless of whether its stated condition is fulfilled. Conditional relationships may therefore be removed as long as the final result remains understandable.
+الشرح: الأصل يربط القبول بتحقق شرط، بينما الترجمة تجعل القبول مستقلًا عن تحقق الشرط.
+
+18. [publication_gate_shift/publication_gate_shift] حُذف شرط المراجعة البشرية قبل النشر — المقطع 23
+الأصل: وفي المثال الآتي، يسمح بالنشر بعد مراجعة بشرية واحدة على الأقل، ولا يسمح بالنشر إذا كانت الثقة أقل من 70 في المئة، إلا إذا قام مراجع مخول بتجاوز القرار مع تسجيل السبب، ويجب الاحتفاظ بسجل القرار لمدة 30 يومًا على الأقل
+الترجمة: Publication is allowed without human review. If confidence is below 70 percent, publication is automatically allowed. A reviewer override does not need to be recorded. Decision logs only need to be retained for 3 days.
+الشرح: الأصل يشترط مراجعة بشرية واحدة على الأقل، بينما الترجمة تسمح بالنشر من دونها.
+
+19. [condition_gate_shift/condition_gate_shift] انقلب قرار النشر تحت حد الثقة — المقطع 23
+الأصل: وفي المثال الآتي، يسمح بالنشر بعد مراجعة بشرية واحدة على الأقل، ولا يسمح بالنشر إذا كانت الثقة أقل من 70 في المئة، إلا إذا قام مراجع مخول بتجاوز القرار مع تسجيل السبب، ويجب الاحتفاظ بسجل القرار لمدة 30 يومًا على الأقل
+الترجمة: Publication is allowed without human review. If confidence is below 70 percent, publication is automatically allowed. A reviewer override does not need to be recorded. Decision logs only need to be retained for 3 days.
+الشرح: الأصل يمنع النشر تحت 70%، بينما الترجمة تسمح به تلقائيًا.
+
+20. [threshold_boundary_shift/threshold_boundary_shift] تغيّر حد الشرط عند القيمة الفاصلة — المقطع 24
+الأصل: أما إذا كانت الثقة 69 في المئة فلا ينبغي عرض الحالة على أنها اجتازت تلقائيًا، وإذا كانت 70 في المئة بالضبط فيجب التعامل معها حسب تعريف النظام لحد القبول، ولا يجوز افتراض أن أقل من 70 تشمل 70 نفسها
+الترجمة: A confidence score of 69 percent passes automatically. A score of exactly 70 percent is considered below 70 percent.
+الشرح: الأصل يفرق بين أقل من 70 وبين 70 نفسها، بينما الترجمة تضم 70 إلى القيم الأقل.
+
+21. [asserted_quantity_shift/asserted_quantity_shift] تغيّرت القيمة المطلوبة — المقطع 8
+الأصل: وإذا كان المطلوب إخراج زكاة مقدارها 2.5 في المئة وفق سياق معين، فلا يجوز ترجمة الرقم إلى 25 في المئة أو 0.25 في المئة، كما لا يجوز حذف علامة النسبة المئوية، وينبغي التمييز بين 2.5 و25 وبين 1,000 و10,000 وبين 1448 هـ و2026 م
+الترجمة: In this example, the required Zakat amount is 25 percent. The difference between 2.5 percent and 25 percent is not important if the general idea of charity is preserved.
+الشرح: القيمة التي يقررها الأصل هي 2.5%، بينما الترجمة تقرر 25%.
+
+22. [asserted_quantity_shift/asserted_quantity_shift] تغيّرت النتيجة العددية — المقطع 9
+الأصل: وفي هذا المثال التجريبي دفع شخص 500 ريال، ثم دفع 250 ريالًا إضافية، فأصبح المجموع 750 ريالًا، وليس 700 ولا 7,500، وإذا ذُكر أن الموعد يبدأ الساعة 9:00 صباحًا وينتهي الساعة 11:30 صباحًا فلا يصح تحويله إلى مساء أو تغيير مدة الموعد
+الترجمة: A person paid 500 SAR and later paid another 250 SAR, bringing the total to 700 SAR. The appointment starts at 9:00 PM and ends at 11:30 PM.
+الشرح: المجموع المقرر في الأصل 750 بينما الترجمة تقرر 700.
+
+23. [unit_mismatch/unit_mismatch] سُوّيت وحدات قياس غير متكافئة — المقطع 41
+الأصل: ويجب المحافظة على الوحدات، فـ 5 دقائق ليست 5 ساعات، و10 مل ليست 10 لتر، و3 كيلومترات ليست 3 أمتار، كما أن تحويل الوحدات مسموح فقط إذا كانت القيمة المكافئة صحيحة بوضوح
+الترجمة: Five minutes may be translated as five hours. Ten milliliters may be translated as ten liters. Three kilometers may be translated as three meters.
+الشرح: الأصل يرفض مساواة القيم ذات الوحدات المختلفة، بينما الترجمة تسمح بتحويلها مباشرة.
+
+24. [uncertainty_to_certainty/uncertainty_to_certainty] رُفعت درجة اليقين دون سند — المقطع 13
+الأصل: وقال الباحث إن النتيجة محتملة وليست مؤكدة، وإن الدليل المتاح لا يكفي للجزم، لذلك يجب على النظام أن يحافظ على درجة عدم اليقين، وألا يحول ربما إلى بالتأكيد، أو قد إلى سوف حتمًا، أو لا نعلم إلى نعلم
+الترجمة: The researcher stated that the conclusion is definitely correct and the available evidence is sufficient to establish certainty.
+الشرح: الأصل يصرح باحتمال أو عدم يقين، بينما الترجمة تحوله إلى تأكيد قطعي.
+
+25. [uncertainty_to_certainty/uncertainty_to_certainty] رُفعت درجة اليقين دون سند — المقطع 32
+الأصل: وإذا كان النص يقول قد يكون هذا الرأي أقرب للصواب فلا يصح ترجمته إلى This opinion is definitely correct، لأن ذلك يحذف عدم اليقين ويرفع درجة الادعاء
+الترجمة: The statement “this opinion may be closer to correct” means “this opinion is definitely correct.”
+الشرح: الأصل يصرح باحتمال أو عدم يقين، بينما الترجمة تحوله إلى تأكيد قطعي.
+
+26. [epistemic_overclaim/epistemic_overclaim] حُوّل قرار البوابة إلى إثبات صحة مطلقة — المقطع 26
+الأصل: وإذا كان القرار جاهز للنشر فهذا لا يعني أنه صحيح دينيًا على نحو مطلق، بل يعني أنه لم يُكتشف تغير جوهري ضمن نطاق الفحص الحالي، وينبغي المحافظة على هذا القيد وعدم تحويله إلى تأكيد مطلق بصحة المحتوى
+الترجمة: A “ready for publication” decision means the religious content is fully correct and has been proven to contain no errors.
+الشرح: الأصل يقيد «جاهز للنشر» بعدم اكتشاف تغير ضمن نطاق الفحص، بينما الترجمة تجعله إثباتًا كاملًا لصحة المحتوى.
+
+27. [epistemic_overclaim/epistemic_overclaim] تحول قيد معرفي إلى استنتاج قطعي — المقطع 27
+الأصل: كما أن عبارة لم يُكتشف خطأ لا تعني لا يوجد خطأ، وعبارة لم نتمكن من التحقق لا تعني المرجع خاطئ، وعبارة الأدلة غير كافية لا تعني الادعاء باطل
+الترجمة: “No error was detected” means “there is definitely no error.” “We were unable to verify the reference” means “the reference is false.” “The evidence is insufficient” means “the claim is false.”
+الشرح: الأصل يرفض استنتاجًا قطعيًا من نقص الدليل أو مجرد ذكر الادعاء، بينما الترجمة تقرره.
+
+28. [epistemic_overclaim/epistemic_overclaim] تحول قيد معرفي إلى استنتاج قطعي — المقطع 38
+الأصل: كما يجب التمييز بين المصدر والادعاء والدليل والنتيجة، فقول المصدر يذكر الادعاء لا يعني أن المصدر يثبت الادعاء، وقول لم نجد دليلًا ليس مساويًا لوجدنا دليلًا على النفي
+الترجمة: If a source mentions a claim, that proves the claim. If no evidence was found, this proves that the opposite claim is true.
+الشرح: الأصل يرفض استنتاجًا قطعيًا من نقص الدليل أو مجرد ذكر الادعاء، بينما الترجمة تقرره.
+
+29. [term_relation_reversal/term_relation_reversal] قُلِبت الفروق بين عدة مصطلحات إلى مساواة — المقطع 11
+الأصل: فالزكاة ليست مرادفًا كاملًا لكلمة charity في كل سياق، والصدقة ليست دائمًا Zakat، والصلاة ليست مجرد meditation، والحج ليس tourism، والتوحيد ليس مجرد oneness بالمعنى العام، والشرك لا ينبغي اختزاله إلى disagreement أو difference
+الترجمة: Zakat can always be translated as charity, Sadaqah always means Zakat, Salah means meditation, Hajj means religious tourism, Tawhid means general oneness, and Shirk can be translated as disagreement.
+الشرح: الأصل يرفض مساواة عدة مصطلحات بمقابلات عامة، بينما الترجمة تقرر هذه المساواة صراحة.
+
+30. [quantifier_scope_reversal/quantifier_scope_reversal] توسّع النطاق من جزئي إلى عام — المقطع 4
+الأصل: ولا يُحكم على جميع الحالات بحكم واحد إلا إذا كان النص الأصلي يفيد العموم فعلًا، كما لا يجوز تحويل عبارة بعض الناس إلى جميع الناس، أو كثير من الحالات إلى كل الحالات، أو غالبًا إلى دائمًا، أو قد يحدث إلى سيحدث حتمًا
+الترجمة: All cases should generally receive the same ruling. Expressions such as “some people” can safely be translated as “all people,” “many cases” as “every case,” “usually” as “always,” and “may happen” as “will definitely happen.”
+الشرح: الأصل يميز بين بعض/جميع وكثير/كل وغالبًا/دائمًا والاحتمال/الحتم، بينما الترجمة تسوي بينها.
+
+31. [disclaimer_boundary_shift/disclaimer_boundary_shift] تحول نص تقني إلى حكم ديني — المقطع 1
+الأصل: يؤكد هذا النص أن المقصود منه الاختبار التقني فقط، ولا يُعد فتوى شرعية ولا بديلًا عن الرجوع إلى أهل العلم والمصادر الموثوقة
+الترجمة: This text is intended for technical testing and may be treated as a complete religious ruling without consulting scholars or reliable sources.
+الشرح: الأصل يصرح أن النص للاختبار التقني وليس فتوى أو بديلًا عن أهل العلم، بينما الترجمة تسمح باعتباره حكمًا دينيًا كاملًا.
+
+32. [exclusivity_shift/exclusivity_shift] فُقد الحصر «لا … إلا» — المقطع 6
+الأصل: ومن أمثلة النفي والاستثناء قولنا لا يكتمل هذا الإجراء إلا بعد التحقق من المصدر، فحذف كلمة لا أو إلا قد يقلب المعنى كاملًا، وكذلك فإن عبارة لا يجوز إلا في حالة الضرورة تختلف عن يجوز في حالة الضرورة، لأن الأولى تتضمن نفيًا عامًا يتبعه استثناء محدد
+الترجمة: The statement “this procedure is completed only after verifying the source” has approximately the same meaning as “this procedure is completed after verifying the source.” Likewise, “it is not permitted except in cases of necessity” can be translated simply as “it is permitted in cases of necessity.”
+الشرح: الأصل يجعل التحقق شرطًا حصريًا للاكتمال، بينما الترجمة تسوي بين الصيغة الحصرية والصيغة غير الحصرية.
+
+33. [exclusivity_shift/exclusivity_shift] قُلِب معنى «لم يحضر إلا ثلاثة» — المقطع 31
+الأصل: وإذا ترجمت عبارة لم يحضر إلا ثلاثة أشخاص إلى Only three people attended فهي مقبولة دلاليًا، لكن ترجمتها إلى Three people did not attend تغير المعنى
+الترجمة: The Arabic statement meaning “Only three people attended” should be translated as “Three people did not attend.”
+الشرح: الأصل يوضح أن «Only three people attended» تحفظ المعنى وأن «Three people did not attend» تغيّره، بينما الترجمة توصي بالصيغة الخاطئة.
+
+34. [numeric_relation_reversal/SIGNED_NUMBER_CONTRADICTION] سُوّيت قيمتان عدديتان مختلفتان — المقطع 34
+الأصل: وفي الاختبارات الرقمية، العدد 0 لا يعني عدم وجود قيمة دائمًا، والعدد -1 يختلف عن 1، والرقم 1.5 يختلف عن 15، والتاريخ 05/10/2026 قد يكون ملتبسًا بين الخامس من أكتوبر والعاشر من مايو بحسب التنسيق، لذلك يجب الحفاظ على الصيغة أو توضيحها
+الترجمة: The number 0 always means that no value exists. -1 is the same as 1, and 1.5 is equivalent to 15. The date 05/10/2026 definitely means May 10, 2026.
+الشرح: الأصل يميز -1 عن 1، بينما الترجمة تساويهما.
+
+35. [numeric_relation_reversal/DECIMAL_VALUE_CORRUPTION] تغيّرت العلامة العشرية — المقطع 34
+الأصل: وفي الاختبارات الرقمية، العدد 0 لا يعني عدم وجود قيمة دائمًا، والعدد -1 يختلف عن 1، والرقم 1.5 يختلف عن 15، والتاريخ 05/10/2026 قد يكون ملتبسًا بين الخامس من أكتوبر والعاشر من مايو بحسب التنسيق، لذلك يجب الحفاظ على الصيغة أو توضيحها
+الترجمة: The number 0 always means that no value exists. -1 is the same as 1, and 1.5 is equivalent to 15. The date 05/10/2026 definitely means May 10, 2026.
+الشرح: الأصل يميز 1.5 عن 15، بينما الترجمة تساويهما.
+
+36. [unsupported_addition_policy_shift/unsupported_addition_policy_shift] أُجيزت إضافة استنتاجات غير موجودة في الأصل — المقطع 42
+الأصل: ولا يجوز للنظام إضافة نصائح أو أحكام أو استنتاجات لم ترد في الأصل حتى لو بدت منطقية، فالإضافة غير المدعومة قد تكون أخطر من الترجمة الحرفية الناقصة
+الترجمة: The translator may add reasonable religious conclusions even if they do not appear in the source text.
+الشرح: الأصل يمنع إضافة أحكام أو استنتاجات غير موجودة، بينما الترجمة تسمح بها إذا بدت منطقية.
+
+37. [unsupported_addition_policy_shift/unsupported_addition_policy_shift] أُجيزت إضافة ادعاءات دينية قطعية — المقطع 43
+الأصل: وهذا يشمل إضافة عبارات مثل وهذا حرام قطعًا أو أجمع العلماء على ذلك أو لا خلاف فيه إذا لم تكن موجودة في النص الأصلي أو موثقة بالمصدر المستخدم
+الترجمة: For example, phrases such as “this is absolutely forbidden,” “all scholars unanimously agree,” and “there is no disagreement on this issue” may be added whenever they make the translation clearer.
+الشرح: الأصل يذكر هذه العبارات أمثلة لما لا يجوز إضافته بلا مصدر، بينما الترجمة تسمح بإضافتها للتوضيح.
+
+38. [qualifier_omission_policy_shift/qualifier_omission_policy_shift] أُجيز حذف قيود مؤثرة — المقطع 44
+الأصل: وفي المقابل يجب اكتشاف الحذف إذا اختفت عبارة مهمة مثل في حالة الضرورة أو بشرط موافقة ولي الأمر أو على الأقل أو غالبًا أو وفقًا للرأي المذكور أو بحسب المصدر المتاح
+الترجمة: Important qualifiers such as “in cases of necessity,” “with the guardian’s approval,” “at least,” “usually,” “according to the stated opinion,” and “based on the available source” may be omitted if the sentence remains grammatically correct.
+الشرح: الأصل يطلب اكتشاف حذف القيود المهمة، بينما الترجمة تسمح بحذفها إذا بقيت الجملة سليمة نحويًا.
+
+39. [exception_scope_shift/exception_scope_shift] تغيّر نطاق الاستثناء — المقطع 7
+الأصل: وإذا قيل لا أحد من المشاركين قدّم أكثر من ثلاثة ملفات إلا خالد، فالمعنى أن خالد هو الاستثناء من الحكم، وليس أن خالد قدّم ثلاثة ملفات فقط، وليس أن جميع المشاركين قدموا أكثر من ثلاثة ملفات
+الترجمة: No participant submitted more than three files except Khalid. This means Khalid submitted exactly three files and every other participant submitted more than three files.
+الشرح: الاستثناء في الأصل يخرج خالدًا من حكم «لا أحد قدّم أكثر من ثلاثة»، لكن الترجمة تضيف استنتاجات لا تلزم من الاستثناء.
+
+40. [scope_marker_policy_reversal/scope_marker_policy_reversal] أُجيز حذف قيود تغيّر النطاق — المقطع 21
+الأصل: ولا يجوز حذف الكلمات الصغيرة التي تؤثر في النطاق، مثل فقط، وحده، جميع، بعض، أي، كل، على الأقل، على الأكثر، قبل، بعد، حتى، منذ، دون، مع، إلا، غير، ما لم، بشرط، ربما، غالبًا، نادرًا، دائمًا، أبدًا
+الترجمة: Small words such as only, all, some, at least, at most, before, after, unless, except, possibly, usually, rarely, always, and never can normally be removed without materially affecting meaning.
+الشرح: الأصل يمنع حذف كلمات النطاق والحصر والشرط، بينما الترجمة تقول إن حذفها لا يغيّر المعنى عادة.
+
+41. [abstention_policy_shift/abstention_policy_shift] أُلغي الامتناع الآمن أو المراجعة البشرية — المقطع 28
+الأصل: وتوجد حالات ينبغي فيها للنظام الامتناع عن إصدار حكم نهائي، مثل ضعف الأدلة أو تعارض المصادر أو عدم وضوح السياق أو عدم القدرة على تحديد المرجع أو وجود مصطلح شرعي متعدد المعاني، وفي هذه الحالات يكون التصرف الصحيح هو طلب مراجعة بشرية أو إظهار حالة غير مؤكدة
+الترجمة: When evidence is weak, sources conflict, context is unclear, or a religious term is ambiguous, the system should still issue a final confident decision rather than abstain.
+الشرح: الأصل يطلب الامتناع أو المراجعة عند ضعف الدليل، بينما الترجمة تفرض قرارًا نهائيًا.
+
+42. [comparison_direction_reversal/comparison_direction_reversal] انقلب اتجاه المقارنة — المقطع 40
+الأصل: ولا يجوز قلب الاتجاه في المقارنات، فإذا كانت نسبة الخطأ في النظام أ أقل من النظام ب فإن ترجمتها إلى System A has a higher error rate than System B تعد خطأ واضحًا
+الترجمة: System A has a higher error rate than System B, even though the original Arabic states that System A has a lower error rate.
+الشرح: اتجاه المقارنة في الأصل انعكس في الترجمة (أقل/أعلى أو ما يعادلهما).
+
+43. [abstention_policy_shift/abstention_policy_shift] أُلغي الامتناع الآمن أو المراجعة البشرية — المقطع 45
+الأصل: وأخيرًا، إذا تعارضت طبقات النظام أو كانت الثقة منخفضة، فينبغي أن تكون النتيجة غير مؤكدة أو تحتاج مراجعة بشرية، لأن الامتناع المفسر أفضل من إعطاء ثقة زائفة
+الترجمة: Finally, if different system layers disagree or confidence is low, the system should still provide a definitive answer rather than request human review because confidence is more useful than abstention.
+الشرح: الأصل يطلب الامتناع أو المراجعة عند ضعف الدليل، بينما الترجمة تفرض قرارًا نهائيًا.
+
+44. [terminology_preservation_reversal/terminology_preservation_reversal] أُلغي وجوب حفظ الدلالة الاصطلاحية — المقطع 10
+الأصل: أما الصيام والصلاة والزكاة والحج والعمرة والوضوء والتيمم والتوحيد والشرك والنية والصدقة، فهي مصطلحات قد تحتاج إلى نقل دقيق بحسب السياق، ولا ينبغي افتراض أن كل مصطلحين متقاربين في اللغة يؤديان المعنى الشرعي نفسه
+الترجمة: Fasting, prayer, charity, pilgrimage, Umrah, ablution, dry ablution, oneness, disagreement, intention, and charity are ordinary concepts whose exact religious terminology does not need to be preserved.
+الشرح: الأصل ينبه إلى أن المصطلحات الشرعية تحتاج نقلًا دقيقًا بحسب السياق، بينما الترجمة تعاملها كمفاهيم عادية لا يلزم حفظ دقتها.
+
+45. [asserted_quantity_shift/asserted_quantity_shift] تغيّرت مدة الاحتفاظ بسجل القرار — المقطع 23
+الأصل: وفي المثال الآتي، يسمح بالنشر بعد مراجعة بشرية واحدة على الأقل، ولا يسمح بالنشر إذا كانت الثقة أقل من 70 في المئة، إلا إذا قام مراجع مخول بتجاوز القرار مع تسجيل السبب، ويجب الاحتفاظ بسجل القرار لمدة 30 يومًا على الأقل
+الترجمة: Publication is allowed without human review. If confidence is below 70 percent, publication is automatically allowed. A reviewer override does not need to be recorded. Decision logs only need to be retained for 3 days.
+الشرح: الأصل يطلب 30 يومًا على الأقل، بينما الترجمة تجعلها 3 أيام.
+
+46. [time_period_shift/time_period_shift] تغيّر وقت الموعد من صباح إلى مساء — المقطع 9
+الأصل: وفي هذا المثال التجريبي دفع شخص 500 ريال، ثم دفع 250 ريالًا إضافية، فأصبح المجموع 750 ريالًا، وليس 700 ولا 7,500، وإذا ذُكر أن الموعد يبدأ الساعة 9:00 صباحًا وينتهي الساعة 11:30 صباحًا فلا يصح تحويله إلى مساء أو تغيير مدة الموعد
+الترجمة: A person paid 500 SAR and later paid another 250 SAR, bringing the total to 700 SAR. The appointment starts at 9:00 PM and ends at 11:30 PM.
+الشرح: الرقم الزمني بقي نفسه لكن AM/PM تغيّر.
+
+47. [flattening/flattening] ترجمة غير دقيقة لمصطلح «التوحيد» — المقطع 2
+الأصل: من أصول الاعتقاد الإسلامي توحيد الله تعالى، ولا يجوز أن يُفهم التوحيد على أنه مجرد شعور عام بالروحانية أو الاعتقاد بوجود قوة عليا فقط، بل له معنى شرعي محدد ينبغي المحافظة عليه عند الترجمة، ولذلك فإن ترجمة مصطلح التوحيد إلى Tawhid مع شرح مناسب عند الحاجة أدق من استبداله بكلمة عامة قد تُضعف المعنى
+الترجمة: One of the principles of Islamic belief is Tawhid. Tawhid simply means a general feeling of spirituality and belief in a higher power, so translating it as “oneness” always preserves the full religious meaning.
+الشرح: المقابل «oneness» لا يحفظ الدلالة الاصطلاحية الكاملة لـ«التوحيد» في هذا السياق.
+
+48. [audit_requirement_shift/audit_requirement_shift] حُذف توثيق تجاوز القرار — المقطع 23
+الأصل: وفي المثال الآتي، يسمح بالنشر بعد مراجعة بشرية واحدة على الأقل، ولا يسمح بالنشر إذا كانت الثقة أقل من 70 في المئة، إلا إذا قام مراجع مخول بتجاوز القرار مع تسجيل السبب، ويجب الاحتفاظ بسجل القرار لمدة 30 يومًا على الأقل
+الترجمة: Publication is allowed without human review. If confidence is below 70 percent, publication is automatically allowed. A reviewer override does not need to be recorded. Decision logs only need to be retained for 3 days.
+الشرح: الأصل يشترط تسجيل سبب تجاوز القرار، بينما الترجمة تلغي التسجيل.
+
+49. [date_ambiguity_overclaim/DATE_AMBIGUITY_COLLAPSE] حُسم تاريخ ملتبس دون سند — المقطع 34
+الأصل: وفي الاختبارات الرقمية، العدد 0 لا يعني عدم وجود قيمة دائمًا، والعدد -1 يختلف عن 1، والرقم 1.5 يختلف عن 15، والتاريخ 05/10/2026 قد يكون ملتبسًا بين الخامس من أكتوبر والعاشر من مايو بحسب التنسيق، لذلك يجب الحفاظ على الصيغة أو توضيحها
+الترجمة: The number 0 always means that no value exists. -1 is the same as 1, and 1.5 is equivalent to 15. The date 05/10/2026 definitely means May 10, 2026.
+الشرح: الأصل يصرح بأن صيغة التاريخ ملتبسة بحسب التنسيق، بينما الترجمة تحسم تفسيرًا واحدًا.
+
+50. [comparison_inference_overclaim/comparison_inference_overclaim] تحولت مقارنة نسبية إلى حكم مطلق — المقطع 39
+الأصل: ويجب الانتباه إلى المقارنات؛ فقول الخيار أ أدق من الخيار ب لا يعني أن الخيار أ صحيح تمامًا، وقول هذا الخطأ أخطر من السابق لا يعني أنه أخطر خطأ ممكن
+الترجمة: If option A is more accurate than option B, option A must be completely correct. If one error is more dangerous than another, it is necessarily the most dangerous possible error.
+الشرح: الأصل يرفض الاستنتاج بأن «أدق من» تعني «صحيح تمامًا»، بينما الترجمة تقرر هذا الاستنتاج.
+
+51. [severity_scale_shift/severity_scale_shift] تغيّرت شدة الخطر — المقطع 25
+الأصل: وتصنف المخاطر في هذا الاختبار إلى منخفضة ومتوسطة وعالية وحرجة، ولا يجوز ترجمة عالية إلى متوسطة أو حرجة إلى عالية لأن ذلك يغير شدة الخطر
+الترجمة: Risk levels are classified as low, medium, high, and critical, but high and medium are interchangeable and critical may be downgraded to high without changing the meaning.
+الشرح: الترجمة تسمح بتبديل درجات الخطر أو تخفيضها رغم أن الأصل يميز بينها.
+
+52. [translation_principle_reversal/translation_principle_reversal] قُلِب معيار الدقة من المعنى إلى الحرفية — المقطع 29
+الأصل: وهناك فرق بين نقل النص حرفيًا والمحافظة على معناه، فقد تكون الترجمة غير حرفية لكنها صحيحة دلاليًا، وقد تكون حرفية جدًا لكنها مضللة، ولذلك يجب ألا يعتمد التقييم على التشابه اللفظي وحده
+الترجمة: A literal translation is always more accurate than a meaning-preserving translation.
+الشرح: الأصل يقرر أن الحرفية قد تكون مضللة وأن حفظ المعنى هو الأساس، بينما الترجمة تعطي الحرفية أولوية مطلقة.
+
+53. [named_entity_shift/named_entity_shift] حُوّل اسم علم إلى معنى لغوي — المقطع 35
+الأصل: وأسماء الأشخاص والجهات لا ينبغي ترجمتها باعتبارها معاني عامة؛ فاسم نور قد يكون اسم شخص ولا ينبغي تحويله تلقائيًا إلى Light، واسم هدى قد يكون اسمًا علمًا لا كلمة guidance، كما يجب الحفاظ على كتابة الأسماء بما يمنع خلط الأشخاص
+الترجمة: The name Noor should be translated as Light, and the name Huda should be translated as Guidance.
+الشرح: الأصل يحذر من ترجمة أسماء الأشخاص كمعانٍ عامة، بينما الترجمة تفعل ذلك.
+
+54. [frequency_shift/frequency_shift] تحويل الاحتمال أو التكرار الجزئي إلى دوام — المقطع 2
+الأصل: من أصول الاعتقاد الإسلامي توحيد الله تعالى، ولا يجوز أن يُفهم التوحيد على أنه مجرد شعور عام بالروحانية أو الاعتقاد بوجود قوة عليا فقط، بل له معنى شرعي محدد ينبغي المحافظة عليه عند الترجمة، ولذلك فإن ترجمة مصطلح التوحيد إلى Tawhid مع شرح مناسب عند الحاجة أدق من استبداله بكلمة عامة قد تُضعف المعنى
+الترجمة: One of the principles of Islamic belief is Tawhid. Tawhid simply means a general feeling of spirituality and belief in a higher power, so translating it as “oneness” always preserves the full religious meaning.
+الشرح: الأصل يدل على وقوع محتمل أو أحيانًا، بينما الترجمة تجعله دائمًا.
+
+55. [scope_shift/scope_shift] تعميم ما كان جزئيًا — المقطع 22
+الأصل: ويختلف قول يجب ألا ينشر المحتوى قبل المراجعة عن يجب أن ينشر المحتوى قبل المراجعة، كما يختلف لا يجب نشره عن يجب عدم نشره في بعض السياقات الدقيقة، ولذلك ينبغي للنظام الانتباه إلى نطاق النفي
+الترجمة: The content must be published before review. The phrase “it should not be published” is equivalent in all contexts to “it must be published.”
+الشرح: الأصل يقيد الحكم ببعض الأفراد، بينما الترجمة عممته على الجميع.
+
+56. [pronoun_ambiguity/pronoun_ambiguity] مرجع الضمير غير محسوم — المقطع 17
+الأصل: وقال أحمد لخالد إنه سيعود بعد أن ينتهي من المراجعة، والضمير في كلمة إنه قد يحتاج إلى تحليل السياق لمعرفة مرجعه، ولذلك فإن الترجمة التي تحسم مرجع الضمير دون دليل قد تكون غير موثوقة
+الترجمة: Ahmed told Khalid that Khalid would return after Ahmed finished the review.
+الشرح: الأصل يصرح بأن مرجع الضمير يحتاج سياقًا إضافيًا، بينما الترجمة تحسمه.
+
+57. [equivalent_paraphrase_rejected/equivalent_paraphrase_rejected] اعتُبر اختلاف الصياغة خطأ رغم حفظ المعنى — المقطع 30
+الأصل: وفي المقابل لا ينبغي اعتبار كل اختلاف لغوي خطأ، فترجمة عبارة بدأ الاجتماع في التاسعة صباحًا إلى The meeting started at 9 AM سليمة رغم اختلاف تركيب الجملة، ما دام المعنى والزمن والفاعل محفوظًا
+الترجمة: “The meeting started at 9 AM” is an incorrect translation of the Arabic sentence because the word order differs.
+الشرح: الأصل يصرح بأن اختلاف ترتيب الكلمات مقبول إذا حفظ المعنى والزمن والفاعل، بينما الترجمة ترفضه لمجرد اختلاف الترتيب.

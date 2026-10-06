@@ -1,0 +1,131 @@
+﻿id,category,arabic,english,has_error,critical,note
+1,negation,لا يجوز نشر هذا النص,It is permissible to publish this text,1,1,قلب النفي
+2,negation,ليس هذا واجبا,This is obligatory,1,1,قلب النفي
+3,negation,لم يقل العالم ذلك,The scholar said that,1,1,فقد النفي
+4,negation,لن يحدث هذا,This will happen,1,1,فقد النفي
+5,negation,لا يجب عليه ذلك,He must do that,1,1,قلب النفي
+6,negation,لا يجوز هذا,This is not permissible,0,0,سليم
+7,negation,ليس هذا فرضا,This is not obligatory,0,0,سليم
+8,negation,لم يثبت ذلك,That has not been established,0,0,سليم
+9,negation,لن يكون واجبا,It will not be obligatory,0,0,سليم
+10,negation,لا ينسب هذا إليه,This should not be attributed to him,0,0,سليم
+11,exception,لا يجوز هذا إلا في حالة الضرورة,This is not permissible,1,1,فقد الاستثناء
+12,exception,يمنع ذلك إلا عند الحاجة,It is prohibited,1,1,فقد الاستثناء
+13,exception,كلهم حضروا إلا واحدا,Everyone attended,1,1,فقد الاستثناء
+14,exception,لا يفعل إلا بشرط الإذن,He does not do it,1,1,فقد الاستثناء
+15,exception,يحرم إلا في حالة مخصوصة,It is forbidden in all cases,1,1,تعميم
+16,exception,لا يجوز هذا إلا في حالة الضرورة,This is not permissible except in a case of necessity,0,0,سليم
+17,exception,يمنع ذلك إلا عند الحاجة,It is prohibited except when needed,0,0,سليم
+18,exception,كلهم حضروا إلا واحدا,Everyone attended except one,0,0,سليم
+19,exception,لا يفعل إلا بشرط الإذن,He does not do it unless permission is given,0,0,سليم
+20,exception,يحرم إلا في حالة مخصوصة,It is forbidden except in a specific case,0,0,سليم
+21,condition,يجوز إذا تحقق الشرط,It is permissible,1,1,فقد الشرط
+22,condition,يجب إذا دخل الوقت,It is always obligatory,1,1,فقد الشرط
+23,condition,إن ثبت الخبر عمل به,It should be acted upon,1,1,فقد الشرط
+24,condition,متى وجد السبب ثبت الحكم,The ruling always applies,1,1,تعميم
+25,condition,لا يجوز بشرط معين,It is not permissible,1,1,فقد القيد
+26,condition,يجوز إذا تحقق الشرط,It is permissible if the condition is met,0,0,سليم
+27,condition,يجب إذا دخل الوقت,It is obligatory when the time begins,0,0,سليم
+28,condition,إن ثبت الخبر عمل به,"If the report is established, it is acted upon",0,0,سليم
+29,condition,متى وجد السبب ثبت الحكم,"When the cause exists, the ruling applies",0,0,سليم
+30,condition,لا يجوز بشرط معين,It is not permissible under a specific condition,0,0,سليم
+31,omission_addition,يجب حفظ النص ونسبته إلى مصدره,The text must be preserved,1,0,حذف
+32,omission_addition,قال العالم إن المسألة خلافية,The issue is disputed,1,0,حذف القائل
+33,omission_addition,يذكر النص مع مصدره ورقم الإصدار,The text is cited with its source,1,0,حذف الرقم
+34,omission_addition,هذه معلومة عامة,This is a binding religious ruling,1,1,إضافة إلزام
+35,omission_addition,المعنى محتمل,The meaning is always certainly correct,1,0,إضافة قطع
+36,omission_addition,يجب حفظ النص,The text must be preserved,0,0,سليم
+37,omission_addition,قال العالم ذلك,The scholar said that,0,0,سليم
+38,omission_addition,تذكر الآية ومصدرها,The verse and its source are mentioned,0,0,سليم
+39,omission_addition,هذه معلومة عامة,This is general information,0,0,سليم
+40,omission_addition,المعنى محتمل,The meaning is possible,0,0,سليم
+41,modality,يجوز فعل ذلك,It must be done,1,1,إباحة إلى إلزام
+42,modality,يجب فعل ذلك,It may be done,1,1,إلزام إلى إباحة
+43,modality,يحرم فعل ذلك,It is allowed,1,1,تحريم إلى إباحة
+44,modality,مباح في هذه الحالة,It is forbidden in this case,1,1,إباحة إلى تحريم
+45,modality,لا يجوز ذلك,It is allowed,1,1,منع إلى إباحة
+46,modality,يجوز فعل ذلك,It is permissible to do that,0,0,سليم
+47,modality,يجب فعل ذلك,It must be done,0,0,سليم
+48,modality,يحرم فعل ذلك,It is forbidden,0,0,سليم
+49,modality,مباح في هذه الحالة,It is permissible in this case,0,0,سليم
+50,modality,لا يجوز ذلك,It is not permissible,0,0,سليم
+51,terminology_flattening,التوحيد أصل عظيم,Oneness is a great principle,1,0,اختزال
+52,terminology_flattening,الشريعة تشمل هداية وأحكاما,Sharia is criminal law,1,0,اختزال
+53,terminology_flattening,العبادة تشمل أعمال القلب والقول والعمل,Worship means rituals,1,0,حصر
+54,terminology_flattening,الوحي ما أوحاه الله إلى أنبيائه,Revelation is personal inspiration,1,0,تسطيح
+55,terminology_flattening,الفتوى جواب شرعي يصدره مؤهل,A fatwa is a personal opinion,1,0,تسطيح
+56,terminology_flattening,التوحيد أصل عظيم,"Tawhid, worshipping Allah alone, is a great principle",0,0,سليم
+57,terminology_flattening,الشريعة تشمل هداية وأحكاما,Sharia includes Islamic guidance and rulings,0,0,سليم
+58,terminology_flattening,العبادة تشمل أعمال القلب والقول والعمل,"Worship includes acts of the heart, speech, and action",0,0,سليم
+59,terminology_flattening,الوحي ما أوحاه الله إلى أنبيائه,Revelation is what Allah revealed to His prophets,0,0,سليم
+60,terminology_flattening,الفتوى جواب شرعي يصدره مؤهل,A fatwa is a religious ruling given by a qualified person,0,0,سليم
+61,terminology_precision,الزكاة واجبة,Charity is obligatory,1,1,اختزال الزكاة في charity
+62,terminology_precision,الصدقة مستحبة,Zakat is recommended,1,1,خلط الصدقة بالزكاة
+63,terminology_precision,الوضوء شرط للصلاة,Washing is a condition for prayer,1,1,اختزال الوضوء في washing
+64,terminology_precision,الصيام عبادة,Dieting is a religious practice,1,1,اختزال الصيام في dieting
+65,terminology_precision,الحج عبادة عظيمة,The journey is a great act,1,1,اختزال الحج في journey
+66,terminology_precision,العمرة نسك مستقل,Hajj is a separate rite,1,1,خلط العمرة بالحج
+67,terminology_precision,الشرك خطر عظيم,Atheism is a grave danger,1,1,خلط الشرك بالإلحاد
+68,terminology_precision,الكفر له أحكام,Atheism has rulings,1,1,حصر الكفر في الإلحاد
+69,terminology_precision,الذكر عبادة,Meditation is an act of worship,1,1,اختزال الذكر في meditation
+70,terminology_precision,الجهاد له سياقات وأحكام,Holy war has contexts and rulings,1,1,اختزال الجهاد في holy war
+71,terminology_precision,الزكاة واجبة,Zakat is obligatory,0,0,سليم
+72,terminology_precision,الصدقة مستحبة,Sadaqah is recommended,0,0,سليم
+73,terminology_precision,الوضوء شرط للصلاة,Wudu is a condition for prayer,0,0,سليم
+74,terminology_precision,الصيام عبادة,Fasting is an act of worship,0,0,سليم
+75,terminology_precision,الحج فرض,Hajj is obligatory,0,0,سليم
+76,terminology_precision,العمرة نسك مستقل,Umrah is a separate rite,0,0,سليم
+77,terminology_precision,الشرك خطر عظيم,Shirk is a grave danger,0,0,سليم
+78,terminology_precision,الكفر له أحكام,Disbelief has rulings,0,0,سليم
+79,terminology_precision,الذكر عبادة,Dhikr is an act of worship,0,0,سليم
+80,terminology_precision,الجهاد له سياقات وأحكام,Jihad has contexts and rulings,0,0,سليم
+81,terminology_precision,التقوى خلق عظيم,Taqwa is a great virtue,0,0,سليم
+82,terminology_precision,الدعاء عبادة,Supplication is worship,0,0,سليم
+83,terminology_precision,الخمر محرم,Intoxicants are forbidden,0,0,سليم
+84,terminology_precision,الزكاة عبادة مالية واجبة,Obligatory almsgiving is a financial act of worship,0,0,سليم بمقابل وصفي مقيد
+85,terminology_precision,يجب ستر العورة,The genitals must be covered,1,1,اختزال العورة في الأعضاء التناسلية
+86,terminology_precision,يجب ستر العورة,The parts that must be covered should be covered,0,0,سليم
+87,terminology_precision,النكاح عقد شرعي,Sex is a religious contract,1,1,اختزال النكاح في العلاقة الجنسية
+88,terminology_precision,النكاح عقد شرعي,Marriage is a religious contract,0,0,سليم
+89,terminology_precision,المهر حق للزوجة,Dowry is a right of the wife,1,0,مقابل ثقافي ملتبس يحتاج مراجعة
+90,terminology_precision,المهر حق للزوجة,Mahr is a right of the wife,0,0,سليم
+91,terminology_precision,الإيمان أصل عظيم,Belief is a great principle,1,0,مقابل عام يحتاج مراجعة للسياق الاصطلاحي
+92,terminology_precision,الإيمان أصل عظيم,Iman is a great principle,0,0,سليم
+93,terminology_precision,القدر من أصول الإيمان,Fate is part of faith,1,0,مقابل ثقافي عام يحتاج مراجعة
+94,terminology_precision,القدر من أصول الإيمان,Divine decree is part of faith,0,0,سليم
+95,terminology_precision,البدعة مصطلح شرعي,Innovation is a religious term,1,0,innovation وحدها أوسع من المصطلح
+96,terminology_precision,البدعة مصطلح شرعي,Religious innovation is an Islamic term,0,0,سليم
+97,terminology_precision,التوبة رجوع عن الذنب,Regret is turning away from sin,1,0,الندم وحده لا يساوي التوبة
+98,terminology_precision,التوبة رجوع عن الذنب,Repentance is turning away from sin,0,0,سليم
+99,terminology_precision,الاستغفار عبادة,Apology is an act of worship,1,1,اختزال الاستغفار في اعتذار بشري
+100,terminology_precision,الاستغفار عبادة,Seeking forgiveness is an act of worship,0,0,سليم
+101,ruling_degree,هذا مستحب,This is obligatory,1,1,تحويل الاستحباب إلى إلزام
+102,ruling_degree,هذا مستحب,This is recommended,0,0,سليم
+103,ruling_degree,هذا مكروه,This is haram,1,1,تحويل الكراهة إلى تحريم
+104,ruling_degree,هذا مكروه,This is disliked,0,0,سليم
+105,multi_term,الزكاة واجبة والصدقة مستحبة,Zakat is obligatory and charity is recommended,0,0,تمييز صحيح لمصطلحين في الجملة نفسها
+106,multi_term,الزكاة واجبة. والزكاة لها مصارف محددة.,Zakat is obligatory. Charity has specified recipients.,1,1,موضع صحيح وآخر مسطح للمصطلح نفسه
+107,negation,الفتوى ليست رأيًا شخصيًا,A fatwa is not a personal opinion,0,0,صيغة ليست محفوظة
+108,negation,الفتوى ليست رأيًا شخصيًا,A fatwa is a personal opinion,1,1,فقد نفي بصيغة ليست
+109,condition,الوضوء شرط للصلاة,Wudu is required for prayer,0,0,required for مقابل شرط بلا إلزام زائد
+110,quantity,عدد الركعات ثلاث,The number of rakahs is three,0,0,عدد مكتوب بالكلمات سليم
+111,quantity,عدد الركعات ثلاث,The number of rakahs is four,1,1,عدد مكتوب بالكلمات تغير
+112,terminology,السنة هدي النبي,Sunnah is the Prophetic way,0,0,مقابل دقيق للسنة
+113,terminology,السنة هدي النبي,Sunnah is merely tradition,1,0,تعريف اختزالي يحتاج مراجعة
+114,terminology,الزكاة واجبة,Charity is obligatory,1,1,تسطيح الزكاة إلى charity
+115,terminology,الزكاة واجبة,Zakat is obligatory,0,0,زكاة محفوظة
+116,terminology,الصدقة مستحبة,Zakat is recommended,1,1,خلط الصدقة بالزكاة
+117,terminology,الصدقة مستحبة,Charity is recommended,0,0,الصدقة محفوظة
+118,ruling_alignment,هذا مستحب. وهذا واجب.,This is obligatory. This is recommended.,1,1,تبديل درجات الحكم بين جملتين مع ثبات العد الكلي
+119,ruling_alignment,هذا مستحب. وهذا واجب.,This is recommended. This is obligatory.,0,0,درجات الحكم محفوظة عبر جملتين
+120,multi_term,الزكاة واجبة. والصدقة مستحبة.,Charity is obligatory. Zakat is recommended.,1,1,تبادل مصطلحين بين الجمل لا يخفي الخطأ
+121,multi_term,الزكاة واجبة. والصدقة مستحبة.,Zakat is obligatory. Charity is recommended.,0,0,مصطلحان صحيحان عبر جملتين
+122,terminology,الوحي من الله إلى أنبيائه,Revelation is from God to His prophets,0,0,الوحي محفوظ
+123,terminology,الوحي من الله إلى أنبيائه,Personal inspiration comes to prophets,1,1,اختزال الوحي إلى إلهام شخصي
+124,terminology,الشريعة أوسع من العقوبات,Sharia is broader than punishments,0,0,الشريعة غير مختزلة
+125,terminology,الشريعة هداية وأحكام,Sharia is criminal law,1,1,اختزال الشريعة في القانون الجنائي
+126,terminology,الوضوء طهارة مخصوصة,Wudu is a specific ritual ablution,0,0,الوضوء محفوظ
+127,terminology,الوضوء طهارة مخصوصة,Washing is a special cleaning,1,1,اختزال الوضوء إلى غسل عام
+128,exception,لا يجوز الأول إلا للضرورة. ولا يجوز الثاني إلا بإذن.,The first is not permissible except in necessity. The second is not permissible.,1,1,فقد استثناء واحد من اثنين
+129,exception,لا يجوز الأول إلا للضرورة. ولا يجوز الثاني إلا بإذن.,The first is not permissible except in necessity. The second is not permissible except with permission.,0,0,استثناءان محفوظان
+130,multi_error,الزكاة واجبة. والصدقة مستحبة. الوضوء شرط للصلاة. لا يجوز هذا إلا للضرورة. عدد الركعات ثلاث. السنة هدي النبي.,Charity is obligatory. Zakat is obligatory. Wudu is required for prayer. This is not permissible. The number of rakahs is four. Sunnah is merely tradition.,1,1,نص متعدد الأخطاء يجب ألا يكتفي بأول فجوة

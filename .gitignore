@@ -5,3 +5,8 @@ __pycache__/
 .pytest_cache/
 data/miyar_reviews.sqlite3
 *.log
+
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/

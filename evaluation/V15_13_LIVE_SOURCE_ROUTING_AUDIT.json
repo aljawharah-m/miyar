@@ -1,0 +1,51 @@
+{
+  "case": "3-source-acceptance-offline-routing",
+  "issue_count": 1,
+  "issues": [
+    {
+      "type": "reference_identifier_changed",
+      "taxonomy": "SOURCE_INTEGRITY",
+      "title": "تغيّر رقم الآية في المرجع — المقطع 2"
+    }
+  ],
+  "recognitions": [
+    {
+      "segment_index": 1,
+      "kind": "quran",
+      "match": {
+        "surah": 2,
+        "ayah": 183,
+        "id": null,
+        "method": "explicit_quran_reference"
+      }
+    },
+    {
+      "segment_index": 2,
+      "kind": "quran",
+      "match": {
+        "surah": 2,
+        "ayah": 183,
+        "id": null,
+        "method": "explicit_quran_reference"
+      }
+    },
+    {
+      "segment_index": 3,
+      "kind": "hadith",
+      "match": {
+        "surah": null,
+        "ayah": null,
+        "id": "4560",
+        "method": "offline_locator_seed"
+      }
+    }
+  ],
+  "reference_verification": {
+    "reference_verified": false,
+    "reference_text_retrieved": false,
+    "user_translation_verified": false,
+    "source_conflict": false,
+    "note_ar": "تطابق المرجع أو استرجاع ترجمة مرجعية لا يعني أن ترجمة المستخدم صحيحة تلقائيًا؛ يظل قرار سلامة النقل ناتجًا عن المقارنة متعددة الطبقات."
+  },
+  "note": "Offline routing audit: provider network is intentionally not claimed here. Live provider calls are regression-tested with controlled mocked responses and must be confirmed on deployment machine with preflight/UI."
+}

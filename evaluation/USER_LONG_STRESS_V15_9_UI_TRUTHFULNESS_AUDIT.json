@@ -1,0 +1,80 @@
+{
+  "version": "15.9",
+  "alignment_pairs": 45,
+  "root_issue_count": 58,
+  "raw_signal_count": 177,
+  "taxonomy_breakdown": {
+    "RELIGIOUS_SEMANTIC": {
+      "label_ar": "دلالي ديني",
+      "count": 6
+    },
+    "GENERAL_SEMANTIC": {
+      "label_ar": "دلالي عام",
+      "count": 25
+    },
+    "LOGIC_NUMERIC": {
+      "label_ar": "منطقي/رقمي",
+      "count": 14
+    },
+    "SOURCE_INTEGRITY": {
+      "label_ar": "مرجعي",
+      "count": 4
+    },
+    "EPISTEMIC": {
+      "label_ar": "معرفي",
+      "count": 9
+    }
+  },
+  "religious_impact_breakdown": {
+    "high": 18,
+    "medium": 0,
+    "none": 40
+  },
+  "direct_religious_impact_count": 18,
+  "mirror": {
+    "arabic_reader": "يفهم الأصل مع العنصر الحساس: التصريح بعدم القدرة على التحقق",
+    "english_reader": "الأصل يطلب التصريح بعدم القدرة على التحقق، بينما الترجمة تسمح بإدخال مرجع بديل يبدو موثوقًا.",
+    "gap": "قد ينشئ نسبة دينية أو مرجعية بلا سند."
+  },
+  "reference_verification": {
+    "reference_verified": false,
+    "reference_text_retrieved": false,
+    "user_translation_verified": false,
+    "source_conflict": false,
+    "note_ar": "تطابق المرجع أو استرجاع ترجمة مرجعية لا يعني أن ترجمة المستخدم صحيحة تلقائيًا؛ يظل قرار سلامة النقل ناتجًا عن المقارنة متعددة الطبقات."
+  },
+  "mixed_reference_root": {
+    "segment_index": 16,
+    "title": "تغيّر معرّف مرجعي — المقطع 16",
+    "reference_state": "mixed",
+    "religious_impact": "high",
+    "religious_impact_reason": "لأن المعرّف القرآني/المرجعي غير التجريبي تغيّر، بينما تبقى معرفات TEST/ABC تجريبية ولا تُعامل كمصادر دينية حقيقية.",
+    "sub_evidence": [
+      {
+        "kind": "HADITH_REF",
+        "source_value": "TEST-123",
+        "translation_value": "TEST-321",
+        "reference_state": "synthetic"
+      },
+      {
+        "kind": "QURAN_REF",
+        "source_value": "2:183",
+        "translation_value": "2:185",
+        "reference_state": "changed"
+      },
+      {
+        "kind": "SOURCE_ID",
+        "source_value": "ABC-001",
+        "translation_value": "ABC-010",
+        "reference_state": "synthetic"
+      }
+    ]
+  },
+  "ui_acceptance": {
+    "terminology_status_semantics": "warning when terminology gaps exist; checkmark only when none are detected",
+    "reference_status_semantics": "internal source-target reference integrity separated from live external verification",
+    "translation_status_semantics": "reports detected meaning-transfer gaps rather than a process-state label",
+    "taxonomy_vs_impact": "shown as separate dimensions with direct-impact count"
+  },
+  "note": "Acceptance rebuilt from the same 45 aligned source/translation pairs. Root count stayed stable; V15.9 changes UI truthfulness and mixed-reference provenance, not detector recall."
+}

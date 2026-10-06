@@ -1,0 +1,10 @@
+{
+  "version": "V15.14",
+  "focus": "Sacred Text Root Hardening",
+  "pytest": {"passed": 317, "failed": 0},
+  "sacred_acceptance": {"bad_cases": 6, "bad_detected": 6, "good_cases": 6, "good_false_positives": 0},
+  "repeatability": {"cases": 20, "runs_per_case": 10, "comparisons": 200, "failures": 0},
+  "quran_locator_rows": 6236,
+  "audits": {"source_errors": 0, "metadata_errors": 0, "attribution_errors": 0, "synthetic_external_calls": 0, "docs_consistency": "PASS"},
+  "scope_note": "Development/regression evidence only; not a claim of perfect or independent religious validation."
+}
