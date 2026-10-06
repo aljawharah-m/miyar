@@ -40,7 +40,7 @@
 
 **حجم الـaudit:** `sacred_corpus_audit.json` يمثل **62,360 Quran checks** عبر عدة مسارات، ويضيف `hadith_reference_audit.json` **130 Hadith checks**؛ الإجمالي **62,490 deterministic audit checks**. هذا عدد عمليات تحقق، لا عدد نصوص مستقلة.
 
-`FINAL_V15_18_VERIFICATION_REPORT.md`:
+`FINAL_VERIFICATION_REPORT.md`:
 - 6,236/6,236 Quran recognitions across exact/undiacritized/quoted/natural-context forms.
 - 6,236 safe references بلا false positives.
 - 6,236 ayah-number mutations detected.

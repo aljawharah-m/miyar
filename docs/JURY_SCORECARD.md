@@ -10,7 +10,7 @@
 - `core/` pipeline: alignment → semantic units/rules → terminology → semantic AI → sources → evidence fusion → decision/human review.
 - `evaluation/ablation_report.json`: الطبقات المنفردة أقل Recall من التركيب الكامل على نفس development set.
 - `evaluation/repeatability_report.json`: 200/200.
-- `FINAL_V15_18_VERIFICATION_REPORT.md`: 348/348 regression + sacred-reference verification evidence.
+- `FINAL_VERIFICATION_REPORT.md`: 348/348 regression + sacred-reference verification evidence.
 
 ## 15% الموثوقية والسلامة العلمية
 

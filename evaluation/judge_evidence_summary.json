@@ -1,7 +1,7 @@
 {
   "release": "V15.20 submission-ready evidence package on V15.18 verified engine",
   "claims_boundary": "Development/audit evidence; not independent field or universal religious accuracy.",
-  "regression": "348/348 (per FINAL_V15_18_VERIFICATION_REPORT.md)",
+  "regression": "348/348 (per FINAL_VERIFICATION_REPORT.md)",
   "development_benchmark": {
     "n": 130,
     "precision": 1.0,
@@ -35,7 +35,7 @@
     },
     "note": "Cross-platform profile. tracemalloc measures Python-managed allocation on all supported platforms; process peak RSS is added when the operating system exposes the resource module. Deployment latency varies by hardware/network; semantic-model and live-provider timing are measured separately by preflight/baseline runs."
   },
-  "quran_corpus": "6236/6236 recognition audit; see FINAL_V15_18_VERIFICATION_REPORT.md",
+  "quran_corpus": "6236/6236 recognition audit; see FINAL_VERIFICATION_REPORT.md",
   "verification_entrypoints": [
     "scripts/judge_verify.py",
     "scripts/release_check.py"

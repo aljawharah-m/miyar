@@ -1,5 +1,8 @@
 {
-  "errors": [],
+  "errors": [
+    "README.md missing source_version policy",
+    "README.md missing retrieved_at policy"
+  ],
   "checks": [
     "live source requires name/url/retrieved_at",
     "version never invented",

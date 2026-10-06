@@ -84,7 +84,7 @@ python scripts/release_check.py
 
 ## أهم الملفات
 
-- `FINAL_V15_20_SUBMISSION_READY_REPORT.md`
+- `FINAL_VERIFICATION_REPORT.md`
 - `docs/MEASURABLE_IMPACT.md`
 - `docs/COMPARATIVE_POSITIONING.md`
 - `docs/JURY_SCORECARD.md`

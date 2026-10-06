@@ -68,7 +68,7 @@ assert proc.returncode == 0, proc.stderr
 assert "noise_reduction_pct=66.3" in proc.stdout
 ok("Reviewer workload", "175 raw signals -> 59 root findings (66.3% noise reduction)")
 
-report = ROOT / "FINAL_V15_20_SUBMISSION_READY_REPORT.md"
+report = ROOT / "FINAL_VERIFICATION_REPORT.md"
 assert report.exists()
 ok("Submission-ready report", report.name)
 

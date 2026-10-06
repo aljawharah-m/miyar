@@ -201,7 +201,7 @@ st.markdown(
     """
 <div class="nav"><div class="brand"><div class="logo"><svg viewBox="0 0 40 40" fill="none"><circle cx="17" cy="17" r="9" stroke="#43E0C2" stroke-width="2.2"/><path d="M23.7 23.7L31 31" stroke="#43E0C2" stroke-width="2.4" stroke-linecap="round"/><path d="M13 15.5H21M13 18.7H19" stroke="#8A7FF6" stroke-width="2" stroke-linecap="round"/></svg></div><div><div class="brand-name">مِعيار</div><div class="brand-sub">سلامة المعنى قبل النشر</div></div></div></div>
 <div class="hero"><div class="eyebrow">سليمة لغويًا ≠ دقيقة دلاليًا</div><h1>سلامة الصياغة لا تعني سلامة المعنى</h1><p>قد تبدو الترجمة صحيحة وواضحة، بينما تفقد <strong>قيدًا أو مصطلحًا أو دلالة مؤثرة</strong>.</p><div class="signature-line"></div></div>
-<div class="hero-explain"><b>مِعيار يراجع ترجمة موجودة قبل نشرها</b>، ويكشف ما فُقد أو تغيّر من المعنى. وإذا كان التصحيح واضحًا وآمنًا يقترحه بوضوح، من دون إعادة ترجمة النص من الصفر.<div class="flow-pills"><span class="flow-pill">اكتشاف</span><span class="flow-pill">تفسير</span><span class="flow-pill">تصحيح آمن</span><span class="flow-pill">إعادة فحص</span></div></div>
+<div class="hero-explain"><b>مِعيار يراجع ترجمة موجودة قبل نشرها</b>، ويكشف ما فُقد أو تغيّر من المعنى. وإذا كان التصحيح واضحًا وآمنًا يقترحه بوضوح، من دون إعادة ترجمة النص من الصفر.<div class="flow-pills"><span class="flow-pill">اكتشاف</span><span class="flow-pill">تفسير</span><span class="flow-pill">تصحيح آمن</span></div></div>
 <div class="workspace-title"><h3>قارن الأصل بالترجمة</h3><span>أدخل الأصل العربي وترجمته الإنجليزية لمراجعة انتقال المعنى قبل النشر</span></div>
 """,
     unsafe_allow_html=True,

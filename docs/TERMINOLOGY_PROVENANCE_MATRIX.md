@@ -51,5 +51,7 @@
 | الاستغفار | curated | reference_family_grounded | TerminologyEnc — موسوعة المصطلحات الإسلامية المترجمة — TerminologyEnc — ابحث عن المصطلح العربي: الاستغفار؛ ICADB — القاعدة المركزية للمحتوى الإسلامي باللغات — ICADB — lookup key / Arabic term: الاستغفار |
 | الشهيد | curated | reference_family_grounded | TerminologyEnc — موسوعة المصطلحات الإسلامية المترجمة — TerminologyEnc — ابحث عن المصطلح العربي: الشهيد؛ ICADB — القاعدة المركزية للمحتوى الإسلامي باللغات — ICADB — lookup key / Arabic term: الشهيد |
 
+| الصمد | curated | scripture_grounded | QuranEnc — الإخلاص 112:2 — QuranEnc — الإخلاص 112:2 — الصمد |
+
 ## ملاحظة منهجية
 المصدر يؤصل معنى المصطلح أو مجاله. تصنيف مقابل إنجليزي إلى `accepted/risky/review` هو سياسة سلامة هندسية في مِعيار ما لم يكن المصدر نفسه ينص على المقابل صراحة.
