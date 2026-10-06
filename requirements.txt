@@ -1,5 +1,4 @@
-streamlit>=1.40,<2
+﻿streamlit>=1.40,<2
 requests>=2.32
 sentence-transformers>=3.0,<6
 pytest>=8.0
-torchvision
