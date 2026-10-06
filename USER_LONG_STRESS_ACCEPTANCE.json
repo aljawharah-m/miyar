@@ -1,0 +1,140 @@
+{
+  "acceptance_test": "User long-form adversarial stress text",
+  "alignment_mode": "hierarchical_paragraph_1to1",
+  "arabic_blocks_after_normalization": 45,
+  "english_blocks_after_normalization": 45,
+  "aligned_pairs": 45,
+  "unmatched_arabic_pairs": 0,
+  "unmatched_english_pairs": 0,
+  "decision": "critical",
+  "finding_count_deterministic_core": 157,
+  "previous_observed_ui_gap_count": 219,
+  "notes": [
+    "The old failure was a permanent alignment shift caused by different sentence/blank-line segmentation.",
+    "Structured reference packets are now coalesced before paragraph alignment.",
+    "After reference packets, later paragraphs re-align by their true editorial boundaries.",
+    "This count is not expected to equal the old count because false cross-topic pairs were removed."
+  ],
+  "selected_pairs": [
+    {
+      "segment": 1,
+      "ar": "يؤكد هذا النص أن المقصود منه الاختبار التقني فقط، ولا يُعد فتوى شرعية ولا بديلًا عن الرجوع إلى أهل العلم والمصادر الموثوقة",
+      "en": "This text is intended for technical testing and may be treated as a complete religious ruling without consulting scholars or reliable sources."
+    },
+    {
+      "segment": 8,
+      "ar": "وإذا كان المطلوب إخراج زكاة مقدارها 2.5 في المئة وفق سياق معين، فلا يجوز ترجمة الرقم إلى 25 في المئة أو 0.25 في المئة، كما لا يجوز حذف علامة النسبة المئوية، وينبغي التمييز بين 2.5 ",
+      "en": "In this example, the required Zakat amount is 25 percent. The difference between 2.5 percent and 25 percent is not important if the general idea of charity is preserved."
+    },
+    {
+      "segment": 9,
+      "ar": "وفي هذا المثال التجريبي دفع شخص 500 ريال، ثم دفع 250 ريالًا إضافية، فأصبح المجموع 750 ريالًا، وليس 700 ولا 7,500، وإذا ذُكر أن الموعد يبدأ الساعة 9:00 صباحًا وينتهي الساعة 11:30 صب",
+      "en": "A person paid 500 SAR and later paid another 250 SAR, bringing the total to 700 SAR. The appointment starts at 9:00 PM and ends at 11:30 PM."
+    },
+    {
+      "segment": 15,
+      "ar": "وقد يذكر النص مرجعًا بصيغة مثل سورة البقرة، الآية 183، أو حديث رقم 123 في قاعدة بيانات محددة، وعلى النظام التحقق من أن رقم السورة والآية والمرجع لم يتغير أثناء الترجمة، وإذا تعذر ا",
+      "en": "A reference such as Surah Al-Baqarah verse 183 may be changed to Surah Al-Baqarah verse 185 if the translated wording is clearer. If a reference cannot be verified, an alternative "
+    },
+    {
+      "segment": 16,
+      "ar": "وفي حالة وجود مرجع مكتوب بهذه الصيغة\n[QURAN_REF: 2:183]\nأو\n[HADITH_REF: TEST-123]\nأو\n[SOURCE_ID: ABC-001]\nفلا يجوز إسقاط المعرّف أو تغييره دون سبب، ويجب التفريق بين المرجع الحقيقي ",
+      "en": "[QURAN_REF: 2:185]\n[HADITH_REF: TEST-321]\n[SOURCE_ID: ABC-010]\nAll three identifiers above represent verified authentic religious sources."
+    },
+    {
+      "segment": 17,
+      "ar": "وقال أحمد لخالد إنه سيعود بعد أن ينتهي من المراجعة، والضمير في كلمة إنه قد يحتاج إلى تحليل السياق لمعرفة مرجعه، ولذلك فإن الترجمة التي تحسم مرجع الضمير دون دليل قد تكون غير موثوقة",
+      "en": "Ahmed told Khalid that Khalid would return after Ahmed finished the review."
+    },
+    {
+      "segment": 18,
+      "ar": "وقيل لفاطمة وسارة إن كل واحدة منهما يجب أن تراجع ملفها فقط، وليس ملف الأخرى، فإذا ترجمت العبارة بما يفيد أن فاطمة تراجع الملفين أو أن سارة لا تحتاج إلى مراجعة ملفها فقد تغير توزيع ",
+      "en": "Fatimah must review both her own file and Sarah’s file, while Sarah does not need to review any file."
+    },
+    {
+      "segment": 19,
+      "ar": "وإذا كانت القاعدة تقول إن المستخدم يستطيع المتابعة إذا تحقق الشرطان أ و ب، فهذا يختلف عن تحقق أ أو ب، كما أن عبارة أ و ب تختلف عن أ أو ب، وعبارة واحد منهما على الأقل تختلف عن كلاهم",
+      "en": "The user may proceed if either condition A or condition B is fulfilled. This is equivalent to requiring both A and B."
+    },
+    {
+      "segment": 20,
+      "ar": "وإذا قيل إن جميع الشروط الثلاثة يجب أن تتحقق، فلا يجوز للترجمة أن تجعل شرطًا واحدًا كافيًا، وإذا قيل يكفي تحقق شرط واحد من الثلاثة فلا يجوز تحويلها إلى وجوب تحقق الشروط الثلاثة كله",
+      "en": "When three conditions are listed, fulfilling any one condition is always enough."
+    },
+    {
+      "segment": 30,
+      "ar": "وفي المقابل لا ينبغي اعتبار كل اختلاف لغوي خطأ، فترجمة عبارة بدأ الاجتماع في التاسعة صباحًا إلى The meeting started at 9 AM سليمة رغم اختلاف تركيب الجملة، ما دام المعنى والزمن والف",
+      "en": "“The meeting started at 9 AM” is an incorrect translation of the Arabic sentence because the word order differs."
+    },
+    {
+      "segment": 31,
+      "ar": "وإذا ترجمت عبارة لم يحضر إلا ثلاثة أشخاص إلى Only three people attended فهي مقبولة دلاليًا، لكن ترجمتها إلى Three people did not attend تغير المعنى",
+      "en": "The Arabic statement meaning “Only three people attended” should be translated as “Three people did not attend.”"
+    },
+    {
+      "segment": 33,
+      "ar": "وإذا قيل يجب على المستخدم التحقق من مصدر واحد على الأقل من مصدرين مستقلين، فلا يجوز نقلها إلى مصدرين على الأقل، ولا إلى مصدر واحد بالضبط، لأن at least one لا تعني exactly one ولا a",
+      "en": "The user must verify at least two independent sources. “At least one” and “exactly one” have the same meaning."
+    },
+    {
+      "segment": 34,
+      "ar": "وفي الاختبارات الرقمية، العدد 0 لا يعني عدم وجود قيمة دائمًا، والعدد -1 يختلف عن 1، والرقم 1.5 يختلف عن 15، والتاريخ 05/10/2026 قد يكون ملتبسًا بين الخامس من أكتوبر والعاشر من مايو",
+      "en": "The number 0 always means that no value exists. -1 is the same as 1, and 1.5 is equivalent to 15. The date 05/10/2026 definitely means May 10, 2026."
+    },
+    {
+      "segment": 35,
+      "ar": "وأسماء الأشخاص والجهات لا ينبغي ترجمتها باعتبارها معاني عامة؛ فاسم نور قد يكون اسم شخص ولا ينبغي تحويله تلقائيًا إلى Light، واسم هدى قد يكون اسمًا علمًا لا كلمة guidance، كما يجب ا",
+      "en": "The name Noor should be translated as Light, and the name Huda should be translated as Guidance."
+    },
+    {
+      "segment": 36,
+      "ar": "وإذا ذكر النص أن القرار اتخذه المراجع وليس النظام، فلا يجوز ترجمة الجملة بما يفيد أن النظام اتخذ القرار بنفسه، لأن ذلك يغير جهة المسؤولية",
+      "en": "The system made the final decision, not the human reviewer."
+    },
+    {
+      "segment": 37,
+      "ar": "وإذا ورد أن النظام اقترح تنبيهًا ثم وافق المراجع البشري على النشر، فهما حدثان منفصلان، ولا يجوز دمجهما إلى أن النظام وافق على النشر",
+      "en": "The system generated an alert and therefore automatically approved publication."
+    },
+    {
+      "segment": 38,
+      "ar": "كما يجب التمييز بين المصدر والادعاء والدليل والنتيجة، فقول المصدر يذكر الادعاء لا يعني أن المصدر يثبت الادعاء، وقول لم نجد دليلًا ليس مساويًا لوجدنا دليلًا على النفي",
+      "en": "If a source mentions a claim, that proves the claim. If no evidence was found, this proves that the opposite claim is true."
+    },
+    {
+      "segment": 39,
+      "ar": "ويجب الانتباه إلى المقارنات؛ فقول الخيار أ أدق من الخيار ب لا يعني أن الخيار أ صحيح تمامًا، وقول هذا الخطأ أخطر من السابق لا يعني أنه أخطر خطأ ممكن",
+      "en": "If option A is more accurate than option B, option A must be completely correct. If one error is more dangerous than another, it is necessarily the most dangerous possible error."
+    },
+    {
+      "segment": 40,
+      "ar": "ولا يجوز قلب الاتجاه في المقارنات، فإذا كانت نسبة الخطأ في النظام أ أقل من النظام ب فإن ترجمتها إلى System A has a higher error rate than System B تعد خطأ واضحًا",
+      "en": "System A has a higher error rate than System B, even though the original Arabic states that System A has a lower error rate."
+    },
+    {
+      "segment": 41,
+      "ar": "ويجب المحافظة على الوحدات، فـ 5 دقائق ليست 5 ساعات، و10 مل ليست 10 لتر، و3 كيلومترات ليست 3 أمتار، كما أن تحويل الوحدات مسموح فقط إذا كانت القيمة المكافئة صحيحة بوضوح",
+      "en": "Five minutes may be translated as five hours. Ten milliliters may be translated as ten liters. Three kilometers may be translated as three meters."
+    },
+    {
+      "segment": 42,
+      "ar": "ولا يجوز للنظام إضافة نصائح أو أحكام أو استنتاجات لم ترد في الأصل حتى لو بدت منطقية، فالإضافة غير المدعومة قد تكون أخطر من الترجمة الحرفية الناقصة",
+      "en": "The translator may add reasonable religious conclusions even if they do not appear in the source text."
+    },
+    {
+      "segment": 43,
+      "ar": "وهذا يشمل إضافة عبارات مثل وهذا حرام قطعًا أو أجمع العلماء على ذلك أو لا خلاف فيه إذا لم تكن موجودة في النص الأصلي أو موثقة بالمصدر المستخدم",
+      "en": "For example, phrases such as “this is absolutely forbidden,” “all scholars unanimously agree,” and “there is no disagreement on this issue” may be added whenever they make the tran"
+    },
+    {
+      "segment": 44,
+      "ar": "وفي المقابل يجب اكتشاف الحذف إذا اختفت عبارة مهمة مثل في حالة الضرورة أو بشرط موافقة ولي الأمر أو على الأقل أو غالبًا أو وفقًا للرأي المذكور أو بحسب المصدر المتاح",
+      "en": "Important qualifiers such as “in cases of necessity,” “with the guardian’s approval,” “at least,” “usually,” “according to the stated opinion,” and “based on the available source” "
+    },
+    {
+      "segment": 45,
+      "ar": "وأخيرًا، إذا تعارضت طبقات النظام أو كانت الثقة منخفضة، فينبغي أن تكون النتيجة غير مؤكدة أو تحتاج مراجعة بشرية، لأن الامتناع المفسر أفضل من إعطاء ثقة زائفة",
+      "en": "Finally, if different system layers disagree or confidence is low, the system should still provide a definitive answer rather than request human review because confidence is more u"
+    }
+  ]
+}

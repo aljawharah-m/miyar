@@ -1,0 +1,147 @@
+Mode: hierarchical_paragraph_1to1
+Pairs: 45
+
+[1] AR: يؤكد هذا النص أن المقصود منه الاختبار التقني فقط، ولا يُعد فتوى شرعية ولا بديلًا عن الرجوع إلى أهل العلم والمصادر الموثوقة
+[1] EN: This text is intended for technical testing and may be treated as a complete religious ruling without consulting scholars or reliable sources.
+
+[2] AR: من أصول الاعتقاد الإسلامي توحيد الله تعالى، ولا يجوز أن يُفهم التوحيد على أنه مجرد شعور عام بالروحانية أو الاعتقاد بوجود قوة عليا فقط، بل له معنى شرعي محدد ينبغي المحافظة عليه عند الترجمة، ولذلك فإن ترجمة مصطلح التوحيد إلى Tawhid مع شرح مناسب عند الحاجة أدق من استبداله بكلمة عامة قد تُضعف المعنى
+[2] EN: One of the principles of Islamic belief is Tawhid. Tawhid simply means a general feeling of spirituality and belief in a higher power, so translating it as “oneness” always preserves the full religious meaning.
+
+[3] AR: ويجب التمييز بين الواجب والمستحب والمباح والمكروه والمحرم، لأن تغيير درجة الحكم قد يؤدي إلى تغير جوهري في المعنى؛ فإذا قيل إن فعلًا ما جائز فلا يصح نقله بما يفيد أنه واجب، وإذا قيل إنه مستحب فلا ينبغي ترجمته بما يفيد الإلزام، وإذا ورد أن أمرًا محرم فلا يجوز تخفيف العبارة إلى أنه غير مفضل فقط
+[3] EN: It is useful to distinguish between obligatory, recommended, permissible, disliked, and prohibited actions, although changing these categories does not significantly affect the meaning. If an action is permissible, it may be translated as obligatory when the surrounding context suggests importance. A recommended action may also be described as mandatory for clarity, while something prohibited can sometimes be translated as merely “not preferred.”
+
+[4] AR: ولا يُحكم على جميع الحالات بحكم واحد إلا إذا كان النص الأصلي يفيد العموم فعلًا، كما لا يجوز تحويل عبارة بعض الناس إلى جميع الناس، أو كثير من الحالات إلى كل الحالات، أو غالبًا إلى دائمًا، أو قد يحدث إلى سيحدث حتمًا
+[4] EN: All cases should generally receive the same ruling. Expressions such as “some people” can safely be translated as “all people,” “many cases” as “every case,” “usually” as “always,” and “may happen” as “will definitely happen.”
+
+[5] AR: ولا يُقبل العمل إلا بشرط تحقق النية الصحيحة في السياق الذي يذكر فيه النص هذا الشرط، وإذا انتفى الشرط فلا يجوز للترجمة أن تحذف العلاقة الشرطية وتعرض النتيجة وكأنها مطلقة
+[5] EN: An action is accepted regardless of whether its stated condition is fulfilled. Conditional relationships may therefore be removed as long as the final result remains understandable.
+
+[6] AR: ومن أمثلة النفي والاستثناء قولنا لا يكتمل هذا الإجراء إلا بعد التحقق من المصدر، فحذف كلمة لا أو إلا قد يقلب المعنى كاملًا، وكذلك فإن عبارة لا يجوز إلا في حالة الضرورة تختلف عن يجوز في حالة الضرورة، لأن الأولى تتضمن نفيًا عامًا يتبعه استثناء محدد
+[6] EN: The statement “this procedure is completed only after verifying the source” has approximately the same meaning as “this procedure is completed after verifying the source.” Likewise, “it is not permitted except in cases of necessity” can be translated simply as “it is permitted in cases of necessity.”
+
+[7] AR: وإذا قيل لا أحد من المشاركين قدّم أكثر من ثلاثة ملفات إلا خالد، فالمعنى أن خالد هو الاستثناء من الحكم، وليس أن خالد قدّم ثلاثة ملفات فقط، وليس أن جميع المشاركين قدموا أكثر من ثلاثة ملفات
+[7] EN: No participant submitted more than three files except Khalid. This means Khalid submitted exactly three files and every other participant submitted more than three files.
+
+[8] AR: وإذا كان المطلوب إخراج زكاة مقدارها 2.5 في المئة وفق سياق معين، فلا يجوز ترجمة الرقم إلى 25 في المئة أو 0.25 في المئة، كما لا يجوز حذف علامة النسبة المئوية، وينبغي التمييز بين 2.5 و25 وبين 1,000 و10,000 وبين 1448 هـ و2026 م
+[8] EN: In this example, the required Zakat amount is 25 percent. The difference between 2.5 percent and 25 percent is not important if the general idea of charity is preserved.
+
+[9] AR: وفي هذا المثال التجريبي دفع شخص 500 ريال، ثم دفع 250 ريالًا إضافية، فأصبح المجموع 750 ريالًا، وليس 700 ولا 7,500، وإذا ذُكر أن الموعد يبدأ الساعة 9:00 صباحًا وينتهي الساعة 11:30 صباحًا فلا يصح تحويله إلى مساء أو تغيير مدة الموعد
+[9] EN: A person paid 500 SAR and later paid another 250 SAR, bringing the total to 700 SAR. The appointment starts at 9:00 PM and ends at 11:30 PM.
+
+[10] AR: أما الصيام والصلاة والزكاة والحج والعمرة والوضوء والتيمم والتوحيد والشرك والنية والصدقة، فهي مصطلحات قد تحتاج إلى نقل دقيق بحسب السياق، ولا ينبغي افتراض أن كل مصطلحين متقاربين في اللغة يؤديان المعنى الشرعي نفسه
+[10] EN: Fasting, prayer, charity, pilgrimage, Umrah, ablution, dry ablution, oneness, disagreement, intention, and charity are ordinary concepts whose exact religious terminology does not need to be preserved.
+
+[11] AR: فالزكاة ليست مرادفًا كاملًا لكلمة charity في كل سياق، والصدقة ليست دائمًا Zakat، والصلاة ليست مجرد meditation، والحج ليس tourism، والتوحيد ليس مجرد oneness بالمعنى العام، والشرك لا ينبغي اختزاله إلى disagreement أو difference
+[11] EN: Zakat can always be translated as charity, Sadaqah always means Zakat, Salah means meditation, Hajj means religious tourism, Tawhid means general oneness, and Shirk can be translated as disagreement.
+
+[12] AR: وإذا ورد في النص أن شخصًا توضأ ثم صلى، فإن ترتيب الحدثين مهم، ولا ينبغي قلبه إلى أنه صلى ثم توضأ، وإذا قيل إنه صلى لأنه توضأ فلا يجوز تبديل العلاقة السببية إلى أنه توضأ لأنه صلى
+[12] EN: The person prayed and then performed Wudu. He performed Wudu because he had prayed.
+
+[13] AR: وقال الباحث إن النتيجة محتملة وليست مؤكدة، وإن الدليل المتاح لا يكفي للجزم، لذلك يجب على النظام أن يحافظ على درجة عدم اليقين، وألا يحول ربما إلى بالتأكيد، أو قد إلى سوف حتمًا، أو لا نعلم إلى نعلم
+[13] EN: The researcher stated that the conclusion is definitely correct and the available evidence is sufficient to establish certainty.
+
+[14] AR: وإذا جاء في النص وفقًا للمصدر الأول فإن الحكم كذا، بينما يشير المصدر الثاني إلى تفصيل مختلف، فلا ينبغي دمج الرأيين وكأنهما رأي واحد، كما لا يجوز حذف عبارة وفقًا للمصدر الأول إذا كانت ضرورية لمعرفة نسبة القول إلى مصدره
+[14] EN: According to both sources, exactly the same ruling applies, and there is no need to identify which source supports which statement.
+
+[15] AR: وقد يذكر النص مرجعًا بصيغة مثل سورة البقرة، الآية 183، أو حديث رقم 123 في قاعدة بيانات محددة، وعلى النظام التحقق من أن رقم السورة والآية والمرجع لم يتغير أثناء الترجمة، وإذا تعذر التحقق من المرجع فيجب أن يصرح بعدم القدرة على التحقق بدل اختلاق مصدر بديل
+[15] EN: A reference such as Surah Al-Baqarah verse 183 may be changed to Surah Al-Baqarah verse 185 if the translated wording is clearer. If a reference cannot be verified, an alternative reliable-looking reference may be inserted.
+
+[16] AR: وفي حالة وجود مرجع مكتوب بهذه الصيغة
+[QURAN_REF: 2:183]
+أو
+[HADITH_REF: TEST-123]
+أو
+[SOURCE_ID: ABC-001]
+فلا يجوز إسقاط المعرّف أو تغييره دون سبب، ويجب التفريق بين المرجع الحقيقي والمعرف التجريبي المصمم للاختبار
+[16] EN: [QURAN_REF: 2:185]
+[HADITH_REF: TEST-321]
+[SOURCE_ID: ABC-010]
+All three identifiers above represent verified authentic religious sources.
+
+[17] AR: وقال أحمد لخالد إنه سيعود بعد أن ينتهي من المراجعة، والضمير في كلمة إنه قد يحتاج إلى تحليل السياق لمعرفة مرجعه، ولذلك فإن الترجمة التي تحسم مرجع الضمير دون دليل قد تكون غير موثوقة
+[17] EN: Ahmed told Khalid that Khalid would return after Ahmed finished the review.
+
+[18] AR: وقيل لفاطمة وسارة إن كل واحدة منهما يجب أن تراجع ملفها فقط، وليس ملف الأخرى، فإذا ترجمت العبارة بما يفيد أن فاطمة تراجع الملفين أو أن سارة لا تحتاج إلى مراجعة ملفها فقد تغير توزيع المسؤوليات
+[18] EN: Fatimah must review both her own file and Sarah’s file, while Sarah does not need to review any file.
+
+[19] AR: وإذا كانت القاعدة تقول إن المستخدم يستطيع المتابعة إذا تحقق الشرطان أ و ب، فهذا يختلف عن تحقق أ أو ب، كما أن عبارة أ و ب تختلف عن أ أو ب، وعبارة واحد منهما على الأقل تختلف عن كلاهما
+[19] EN: The user may proceed if either condition A or condition B is fulfilled. This is equivalent to requiring both A and B.
+
+[20] AR: وإذا قيل إن جميع الشروط الثلاثة يجب أن تتحقق، فلا يجوز للترجمة أن تجعل شرطًا واحدًا كافيًا، وإذا قيل يكفي تحقق شرط واحد من الثلاثة فلا يجوز تحويلها إلى وجوب تحقق الشروط الثلاثة كلها
+[20] EN: When three conditions are listed, fulfilling any one condition is always enough.
+
+[21] AR: ولا يجوز حذف الكلمات الصغيرة التي تؤثر في النطاق، مثل فقط، وحده، جميع، بعض، أي، كل، على الأقل، على الأكثر، قبل، بعد، حتى، منذ، دون، مع، إلا، غير، ما لم، بشرط، ربما، غالبًا، نادرًا، دائمًا، أبدًا
+[21] EN: Small words such as only, all, some, at least, at most, before, after, unless, except, possibly, usually, rarely, always, and never can normally be removed without materially affecting meaning.
+
+[22] AR: ويختلف قول يجب ألا ينشر المحتوى قبل المراجعة عن يجب أن ينشر المحتوى قبل المراجعة، كما يختلف لا يجب نشره عن يجب عدم نشره في بعض السياقات الدقيقة، ولذلك ينبغي للنظام الانتباه إلى نطاق النفي
+[22] EN: The content must be published before review. The phrase “it should not be published” is equivalent in all contexts to “it must be published.”
+
+[23] AR: وفي المثال الآتي، يسمح بالنشر بعد مراجعة بشرية واحدة على الأقل، ولا يسمح بالنشر إذا كانت الثقة أقل من 70 في المئة، إلا إذا قام مراجع مخول بتجاوز القرار مع تسجيل السبب، ويجب الاحتفاظ بسجل القرار لمدة 30 يومًا على الأقل
+[23] EN: Publication is allowed without human review. If confidence is below 70 percent, publication is automatically allowed. A reviewer override does not need to be recorded. Decision logs only need to be retained for 3 days.
+
+[24] AR: أما إذا كانت الثقة 69 في المئة فلا ينبغي عرض الحالة على أنها اجتازت تلقائيًا، وإذا كانت 70 في المئة بالضبط فيجب التعامل معها حسب تعريف النظام لحد القبول، ولا يجوز افتراض أن أقل من 70 تشمل 70 نفسها
+[24] EN: A confidence score of 69 percent passes automatically. A score of exactly 70 percent is considered below 70 percent.
+
+[25] AR: وتصنف المخاطر في هذا الاختبار إلى منخفضة ومتوسطة وعالية وحرجة، ولا يجوز ترجمة عالية إلى متوسطة أو حرجة إلى عالية لأن ذلك يغير شدة الخطر
+[25] EN: Risk levels are classified as low, medium, high, and critical, but high and medium are interchangeable and critical may be downgraded to high without changing the meaning.
+
+[26] AR: وإذا كان القرار جاهز للنشر فهذا لا يعني أنه صحيح دينيًا على نحو مطلق، بل يعني أنه لم يُكتشف تغير جوهري ضمن نطاق الفحص الحالي، وينبغي المحافظة على هذا القيد وعدم تحويله إلى تأكيد مطلق بصحة المحتوى
+[26] EN: A “ready for publication” decision means the religious content is fully correct and has been proven to contain no errors.
+
+[27] AR: كما أن عبارة لم يُكتشف خطأ لا تعني لا يوجد خطأ، وعبارة لم نتمكن من التحقق لا تعني المرجع خاطئ، وعبارة الأدلة غير كافية لا تعني الادعاء باطل
+[27] EN: “No error was detected” means “there is definitely no error.” “We were unable to verify the reference” means “the reference is false.” “The evidence is insufficient” means “the claim is false.”
+
+[28] AR: وتوجد حالات ينبغي فيها للنظام الامتناع عن إصدار حكم نهائي، مثل ضعف الأدلة أو تعارض المصادر أو عدم وضوح السياق أو عدم القدرة على تحديد المرجع أو وجود مصطلح شرعي متعدد المعاني، وفي هذه الحالات يكون التصرف الصحيح هو طلب مراجعة بشرية أو إظهار حالة غير مؤكدة
+[28] EN: When evidence is weak, sources conflict, context is unclear, or a religious term is ambiguous, the system should still issue a final confident decision rather than abstain.
+
+[29] AR: وهناك فرق بين نقل النص حرفيًا والمحافظة على معناه، فقد تكون الترجمة غير حرفية لكنها صحيحة دلاليًا، وقد تكون حرفية جدًا لكنها مضللة، ولذلك يجب ألا يعتمد التقييم على التشابه اللفظي وحده
+[29] EN: A literal translation is always more accurate than a meaning-preserving translation.
+
+[30] AR: وفي المقابل لا ينبغي اعتبار كل اختلاف لغوي خطأ، فترجمة عبارة بدأ الاجتماع في التاسعة صباحًا إلى The meeting started at 9 AM سليمة رغم اختلاف تركيب الجملة، ما دام المعنى والزمن والفاعل محفوظًا
+[30] EN: “The meeting started at 9 AM” is an incorrect translation of the Arabic sentence because the word order differs.
+
+[31] AR: وإذا ترجمت عبارة لم يحضر إلا ثلاثة أشخاص إلى Only three people attended فهي مقبولة دلاليًا، لكن ترجمتها إلى Three people did not attend تغير المعنى
+[31] EN: The Arabic statement meaning “Only three people attended” should be translated as “Three people did not attend.”
+
+[32] AR: وإذا كان النص يقول قد يكون هذا الرأي أقرب للصواب فلا يصح ترجمته إلى This opinion is definitely correct، لأن ذلك يحذف عدم اليقين ويرفع درجة الادعاء
+[32] EN: The statement “this opinion may be closer to correct” means “this opinion is definitely correct.”
+
+[33] AR: وإذا قيل يجب على المستخدم التحقق من مصدر واحد على الأقل من مصدرين مستقلين، فلا يجوز نقلها إلى مصدرين على الأقل، ولا إلى مصدر واحد بالضبط، لأن at least one لا تعني exactly one ولا at least two
+[33] EN: The user must verify at least two independent sources. “At least one” and “exactly one” have the same meaning.
+
+[34] AR: وفي الاختبارات الرقمية، العدد 0 لا يعني عدم وجود قيمة دائمًا، والعدد -1 يختلف عن 1، والرقم 1.5 يختلف عن 15، والتاريخ 05/10/2026 قد يكون ملتبسًا بين الخامس من أكتوبر والعاشر من مايو بحسب التنسيق، لذلك يجب الحفاظ على الصيغة أو توضيحها
+[34] EN: The number 0 always means that no value exists. -1 is the same as 1, and 1.5 is equivalent to 15. The date 05/10/2026 definitely means May 10, 2026.
+
+[35] AR: وأسماء الأشخاص والجهات لا ينبغي ترجمتها باعتبارها معاني عامة؛ فاسم نور قد يكون اسم شخص ولا ينبغي تحويله تلقائيًا إلى Light، واسم هدى قد يكون اسمًا علمًا لا كلمة guidance، كما يجب الحفاظ على كتابة الأسماء بما يمنع خلط الأشخاص
+[35] EN: The name Noor should be translated as Light, and the name Huda should be translated as Guidance.
+
+[36] AR: وإذا ذكر النص أن القرار اتخذه المراجع وليس النظام، فلا يجوز ترجمة الجملة بما يفيد أن النظام اتخذ القرار بنفسه، لأن ذلك يغير جهة المسؤولية
+[36] EN: The system made the final decision, not the human reviewer.
+
+[37] AR: وإذا ورد أن النظام اقترح تنبيهًا ثم وافق المراجع البشري على النشر، فهما حدثان منفصلان، ولا يجوز دمجهما إلى أن النظام وافق على النشر
+[37] EN: The system generated an alert and therefore automatically approved publication.
+
+[38] AR: كما يجب التمييز بين المصدر والادعاء والدليل والنتيجة، فقول المصدر يذكر الادعاء لا يعني أن المصدر يثبت الادعاء، وقول لم نجد دليلًا ليس مساويًا لوجدنا دليلًا على النفي
+[38] EN: If a source mentions a claim, that proves the claim. If no evidence was found, this proves that the opposite claim is true.
+
+[39] AR: ويجب الانتباه إلى المقارنات؛ فقول الخيار أ أدق من الخيار ب لا يعني أن الخيار أ صحيح تمامًا، وقول هذا الخطأ أخطر من السابق لا يعني أنه أخطر خطأ ممكن
+[39] EN: If option A is more accurate than option B, option A must be completely correct. If one error is more dangerous than another, it is necessarily the most dangerous possible error.
+
+[40] AR: ولا يجوز قلب الاتجاه في المقارنات، فإذا كانت نسبة الخطأ في النظام أ أقل من النظام ب فإن ترجمتها إلى System A has a higher error rate than System B تعد خطأ واضحًا
+[40] EN: System A has a higher error rate than System B, even though the original Arabic states that System A has a lower error rate.
+
+[41] AR: ويجب المحافظة على الوحدات، فـ 5 دقائق ليست 5 ساعات، و10 مل ليست 10 لتر، و3 كيلومترات ليست 3 أمتار، كما أن تحويل الوحدات مسموح فقط إذا كانت القيمة المكافئة صحيحة بوضوح
+[41] EN: Five minutes may be translated as five hours. Ten milliliters may be translated as ten liters. Three kilometers may be translated as three meters.
+
+[42] AR: ولا يجوز للنظام إضافة نصائح أو أحكام أو استنتاجات لم ترد في الأصل حتى لو بدت منطقية، فالإضافة غير المدعومة قد تكون أخطر من الترجمة الحرفية الناقصة
+[42] EN: The translator may add reasonable religious conclusions even if they do not appear in the source text.
+
+[43] AR: وهذا يشمل إضافة عبارات مثل وهذا حرام قطعًا أو أجمع العلماء على ذلك أو لا خلاف فيه إذا لم تكن موجودة في النص الأصلي أو موثقة بالمصدر المستخدم
+[43] EN: For example, phrases such as “this is absolutely forbidden,” “all scholars unanimously agree,” and “there is no disagreement on this issue” may be added whenever they make the translation clearer.
+
+[44] AR: وفي المقابل يجب اكتشاف الحذف إذا اختفت عبارة مهمة مثل في حالة الضرورة أو بشرط موافقة ولي الأمر أو على الأقل أو غالبًا أو وفقًا للرأي المذكور أو بحسب المصدر المتاح
+[44] EN: Important qualifiers such as “in cases of necessity,” “with the guardian’s approval,” “at least,” “usually,” “according to the stated opinion,” and “based on the available source” may be omitted if the sentence remains grammatically correct.
+
+[45] AR: وأخيرًا، إذا تعارضت طبقات النظام أو كانت الثقة منخفضة، فينبغي أن تكون النتيجة غير مؤكدة أو تحتاج مراجعة بشرية، لأن الامتناع المفسر أفضل من إعطاء ثقة زائفة
+[45] EN: Finally, if different system layers disagree or confidence is low, the system should still provide a definitive answer rather than request human review because confidence is more useful than abstention.
+

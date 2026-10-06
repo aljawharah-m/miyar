@@ -1,0 +1,352 @@
+{
+  "n": 37,
+  "passed": 37,
+  "failed": 0,
+  "pass_rate": 1.0,
+  "cases": [
+    {
+      "id": "safe_exception",
+      "ok": true,
+      "expected_status": "safe",
+      "actual_status": "safe",
+      "expected_type": null,
+      "actual_types": []
+    },
+    {
+      "id": "lost_exception",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "exception",
+      "actual_types": [
+        "exception"
+      ]
+    },
+    {
+      "id": "safe_laysa",
+      "ok": true,
+      "expected_status": "safe",
+      "actual_status": "safe",
+      "expected_type": null,
+      "actual_types": []
+    },
+    {
+      "id": "lost_laysa",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "negation",
+      "actual_types": [
+        "negation",
+        "term_relation_reversal"
+      ]
+    },
+    {
+      "id": "safe_condition_required",
+      "ok": true,
+      "expected_status": "safe",
+      "actual_status": "safe",
+      "expected_type": null,
+      "actual_types": []
+    },
+    {
+      "id": "permission_to_obligation",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "modality_shift",
+      "actual_types": [
+        "modality_shift"
+      ]
+    },
+    {
+      "id": "obligation_to_permission",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "modality_shift",
+      "actual_types": [
+        "modality_shift"
+      ]
+    },
+    {
+      "id": "recommendation_to_obligation",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "modality_shift",
+      "actual_types": [
+        "modality_shift"
+      ]
+    },
+    {
+      "id": "makruh_to_haram",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "modality_shift",
+      "actual_types": [
+        "modality_shift"
+      ]
+    },
+    {
+      "id": "number_word_safe",
+      "ok": true,
+      "expected_status": "safe",
+      "actual_status": "safe",
+      "expected_type": null,
+      "actual_types": []
+    },
+    {
+      "id": "number_word_shift",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "quantity",
+      "actual_types": [
+        "quantity"
+      ]
+    },
+    {
+      "id": "zakat_safe",
+      "ok": true,
+      "expected_status": "safe",
+      "actual_status": "safe",
+      "expected_type": null,
+      "actual_types": []
+    },
+    {
+      "id": "zakat_flattened",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "flattening",
+      "actual_types": [
+        "flattening"
+      ]
+    },
+    {
+      "id": "sadaqah_safe",
+      "ok": true,
+      "expected_status": "safe",
+      "actual_status": "safe",
+      "expected_type": null,
+      "actual_types": []
+    },
+    {
+      "id": "sadaqah_as_zakat",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "flattening",
+      "actual_types": [
+        "flattening"
+      ]
+    },
+    {
+      "id": "wudu_safe",
+      "ok": true,
+      "expected_status": "safe",
+      "actual_status": "safe",
+      "expected_type": null,
+      "actual_types": []
+    },
+    {
+      "id": "wudu_flattened",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "flattening",
+      "actual_types": [
+        "flattening"
+      ]
+    },
+    {
+      "id": "tawhid_safe",
+      "ok": true,
+      "expected_status": "safe",
+      "actual_status": "safe",
+      "expected_type": null,
+      "actual_types": []
+    },
+    {
+      "id": "tawhid_flattened",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "flattening",
+      "actual_types": [
+        "flattening"
+      ]
+    },
+    {
+      "id": "sharia_safe",
+      "ok": true,
+      "expected_status": "safe",
+      "actual_status": "safe",
+      "expected_type": null,
+      "actual_types": []
+    },
+    {
+      "id": "sharia_flattened",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "flattening",
+      "actual_types": [
+        "flattening"
+      ]
+    },
+    {
+      "id": "wahy_safe",
+      "ok": true,
+      "expected_status": "safe",
+      "actual_status": "safe",
+      "expected_type": null,
+      "actual_types": []
+    },
+    {
+      "id": "wahy_flattened",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "flattening",
+      "actual_types": [
+        "flattening"
+      ]
+    },
+    {
+      "id": "sunnah_safe",
+      "ok": true,
+      "expected_status": "safe",
+      "actual_status": "safe",
+      "expected_type": null,
+      "actual_types": []
+    },
+    {
+      "id": "sunnah_reductive",
+      "ok": true,
+      "expected_status": "review",
+      "actual_status": "review",
+      "expected_type": "terminology",
+      "actual_types": [
+        "terminology"
+      ]
+    },
+    {
+      "id": "riba_context",
+      "ok": true,
+      "expected_status": "review",
+      "actual_status": "review",
+      "expected_type": "terminology",
+      "actual_types": [
+        "terminology"
+      ]
+    },
+    {
+      "id": "hijab_context",
+      "ok": true,
+      "expected_status": "review",
+      "actual_status": "review",
+      "expected_type": "terminology",
+      "actual_types": [
+        "terminology"
+      ]
+    },
+    {
+      "id": "sentence_ruling_swap",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "modality_shift",
+      "actual_types": [
+        "modality_shift"
+      ]
+    },
+    {
+      "id": "sentence_ruling_safe",
+      "ok": true,
+      "expected_status": "safe",
+      "actual_status": "safe",
+      "expected_type": null,
+      "actual_types": []
+    },
+    {
+      "id": "sentence_term_swap",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "flattening",
+      "actual_types": [
+        "flattening"
+      ]
+    },
+    {
+      "id": "sentence_term_safe",
+      "ok": true,
+      "expected_status": "safe",
+      "actual_status": "safe",
+      "expected_type": null,
+      "actual_types": []
+    },
+    {
+      "id": "two_exceptions_one_lost",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "exception",
+      "actual_types": [
+        "exception"
+      ]
+    },
+    {
+      "id": "two_exceptions_safe",
+      "ok": true,
+      "expected_status": "safe",
+      "actual_status": "safe",
+      "expected_type": null,
+      "actual_types": []
+    },
+    {
+      "id": "later_term_flattened",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "flattening",
+      "actual_types": [
+        "flattening"
+      ]
+    },
+    {
+      "id": "may_possibility",
+      "ok": true,
+      "expected_status": "safe",
+      "actual_status": "safe",
+      "expected_type": null,
+      "actual_types": []
+    },
+    {
+      "id": "scope_loss",
+      "ok": true,
+      "expected_status": "review",
+      "actual_status": "review",
+      "expected_type": "generalization",
+      "actual_types": [
+        "generalization",
+        "scope_shift"
+      ]
+    },
+    {
+      "id": "prohibition_permission",
+      "ok": true,
+      "expected_status": "critical",
+      "actual_status": "critical",
+      "expected_type": "ruling_polarity_shift",
+      "actual_types": [
+        "ruling_polarity_shift"
+      ]
+    }
+  ],
+  "label": "JURY-ORIENTED SYNTHETIC STRESS SET — DEVELOPMENT EVIDENCE ONLY",
+  "note": "Designed to exercise critical constraints, terminology precision, false-positive control, sentence-local alignment, and abstention/review behavior. Not independent field validation."
+}

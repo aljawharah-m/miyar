@@ -1,0 +1,16 @@
+{
+  "platform": "linux",
+  "mode": "offline deterministic layers; live retrieval and semantic model disabled",
+  "calls": 30,
+  "latency_ms": {
+    "median": 395.017,
+    "p95": 430.606,
+    "max": 439.084
+  },
+  "memory": {
+    "python_tracemalloc_peak_mib": 0.466,
+    "process_peak_rss_mib": 98.695,
+    "process_peak_rss_source": "resource.ru_maxrss (KiB on Linux/Unix)"
+  },
+  "note": "Cross-platform profile. tracemalloc measures Python-managed allocation on all supported platforms; process peak RSS is added when the operating system exposes the resource module. Deployment latency varies by hardware/network; semantic-model and live-provider timing are measured separately by preflight/baseline runs."
+}

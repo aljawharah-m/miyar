@@ -1,0 +1,68 @@
+{
+  "label": "CATEGORY-SLICED SYNTHETIC DEVELOPMENT EVIDENCE — NOT INDEPENDENT RELIGIOUS VALIDATION",
+  "groups": {
+    "terminology": {
+      "categories": [
+        "multi_term",
+        "terminology",
+        "terminology_flattening",
+        "terminology_precision"
+      ],
+      "n": 74,
+      "TP": 35,
+      "FP": 0,
+      "TN": 39,
+      "FN": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "fpr": 0.0
+    },
+    "rulings": {
+      "categories": [
+        "modality",
+        "negation",
+        "ruling_alignment",
+        "ruling_degree"
+      ],
+      "n": 40,
+      "TP": 20,
+      "FP": 0,
+      "TN": 20,
+      "FN": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "fpr": 0.0
+    },
+    "references": {
+      "categories": [
+        "attribution",
+        "quran"
+      ],
+      "n": 8,
+      "TP": 4,
+      "FP": 0,
+      "TN": 4,
+      "FN": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "fpr": 0.0
+    },
+    "numbers": {
+      "categories": [
+        "quantity"
+      ],
+      "n": 6,
+      "TP": 3,
+      "FP": 0,
+      "TN": 3,
+      "FN": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "fpr": 0.0
+    }
+  }
+}

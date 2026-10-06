@@ -1,0 +1,60 @@
+{
+  "release": "V15.20 submission-ready evidence package on V15.18 verified engine",
+  "claims_boundary": "Development/audit evidence; not independent field or universal religious accuracy.",
+  "regression": "348/348 (per FINAL_V15_18_VERIFICATION_REPORT.md)",
+  "development_benchmark": {
+    "n": 130,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fpr": 0.0,
+    "critical_error_recall": 1.0
+  },
+  "ablation": {
+    "structure_only_recall": 0.4762,
+    "terminology_only_recall": 0.5238,
+    "composed_recall": 1.0
+  },
+  "repeatability": {
+    "comparisons": 200,
+    "failures": 0
+  },
+  "offline_resource_profile": {
+    "platform": "linux",
+    "mode": "offline deterministic layers; live retrieval and semantic model disabled",
+    "calls": 30,
+    "latency_ms": {
+      "median": 395.017,
+      "p95": 430.606,
+      "max": 439.084
+    },
+    "memory": {
+      "python_tracemalloc_peak_mib": 0.466,
+      "process_peak_rss_mib": 98.695,
+      "process_peak_rss_source": "resource.ru_maxrss (KiB on Linux/Unix)"
+    },
+    "note": "Cross-platform profile. tracemalloc measures Python-managed allocation on all supported platforms; process peak RSS is added when the operating system exposes the resource module. Deployment latency varies by hardware/network; semantic-model and live-provider timing are measured separately by preflight/baseline runs."
+  },
+  "quran_corpus": "6236/6236 recognition audit; see FINAL_V15_18_VERIFICATION_REPORT.md",
+  "verification_entrypoints": [
+    "scripts/judge_verify.py",
+    "scripts/release_check.py"
+  ],
+  "reviewer_workload_evidence": {
+    "raw_signals": 175,
+    "root_findings": 59,
+    "suppressed_or_merged": 116,
+    "noise_reduction_pct": 66.3,
+    "label": "development stress evidence; not human review-time validation"
+  },
+  "submission_docs": [
+    "START_HERE_FOR_JUDGES.md",
+    "docs/JURY_SCORECARD.md",
+    "docs/MEASURABLE_IMPACT.md",
+    "docs/REVIEWER_WORKLOAD_EVIDENCE.md",
+    "docs/FINAL_DEMO_SCRIPT.md",
+    "docs/VIDEO_SCRIPT_2_MIN.md",
+    "docs/PRESENTATION_5_MIN_CONTENT.md",
+    "docs/USER_FINAL_ACTIONS.md"
+  ]
+}

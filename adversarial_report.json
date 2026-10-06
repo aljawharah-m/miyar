@@ -1,0 +1,14 @@
+{
+  "n": 48,
+  "TP": 24,
+  "FP": 0,
+  "TN": 24,
+  "FN": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "fpr": 0.0,
+  "critical_error_recall": 1.0,
+  "mistakes": [],
+  "label": "SYNTHETIC ADVERSARIAL DEVELOPMENT SET — NOT INDEPENDENT VALIDATION"
+}

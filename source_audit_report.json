@@ -1,0 +1,11 @@
+{
+  "quran_locator_rows": 6236,
+  "quran_unique_exact_ok": 5877,
+  "quran_repeated_ambiguous_ok": 359,
+  "quran_short_safe_abstentions": 0,
+  "terminology_checks": 155,
+  "terminology_provenance_rows": 49,
+  "linguistic_reference_rows": 2,
+  "errors": [],
+  "note": "Deterministic development/source audit. Live provider connectivity is checked separately by scripts/preflight.py."
+}

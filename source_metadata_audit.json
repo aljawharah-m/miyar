@@ -1,0 +1,10 @@
+{
+  "errors": [],
+  "checks": [
+    "live source requires name/url/retrieved_at",
+    "version never invented",
+    "QuranEnc/HadeethEnc attribution notice",
+    "README/SOURCES/LICENSES consistent",
+    "public UI exposes metadata"
+  ]
+}

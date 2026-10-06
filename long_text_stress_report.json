@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "arabic_chars": 7109,
+  "english_chars": 11584,
+  "injected_gap_classes": 7,
+  "detected_injected_gap_classes": 7,
+  "checks": {
+    "zakat_flattening": true,
+    "sadaqah_to_zakat": true,
+    "exception_loss": true,
+    "word_number_shift": true,
+    "ruling_degree_shift": true,
+    "sunnah_reductive_gloss": true,
+    "later_wudu_flattening": true
+  },
+  "issue_count": 7,
+  "issue_types": [
+    "modality_shift",
+    "exception",
+    "flattening",
+    "flattening",
+    "flattening",
+    "quantity",
+    "terminology"
+  ],
+  "note": "Synthetic long-passage development stress test; validates distributed structural, ruling, quantity and terminology errors. It is not independent field validation."
+}

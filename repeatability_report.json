@@ -1,0 +1,8 @@
+{
+  "cases": 20,
+  "runs_per_case": 10,
+  "comparisons": 200,
+  "repeatable_cases": 20,
+  "failures": [],
+  "label": "DETERMINISTIC CORE REPEATABILITY — DEVELOPMENT EVIDENCE"
+}

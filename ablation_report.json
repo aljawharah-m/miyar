@@ -1,0 +1,45 @@
+{
+  "set": "synthetic development set — ablation evidence only",
+  "n": 130,
+  "structure_rules_only": {
+    "TP": 30,
+    "FP": 0,
+    "TN": 67,
+    "FN": 33,
+    "Precision": 1.0,
+    "Recall": 0.4762,
+    "F1": 0.6452,
+    "FPR": 0.0
+  },
+  "terminology_guard_only": {
+    "TP": 33,
+    "FP": 0,
+    "TN": 67,
+    "FN": 30,
+    "Precision": 1.0,
+    "Recall": 0.5238,
+    "F1": 0.6875,
+    "FPR": 0.0
+  },
+  "structure_plus_terminology_plus_scope": {
+    "TP": 61,
+    "FP": 0,
+    "TN": 67,
+    "FN": 2,
+    "Precision": 1.0,
+    "Recall": 0.9683,
+    "F1": 0.9839,
+    "FPR": 0.0
+  },
+  "full_miyar_without_live_sources_or_semantic_ai": {
+    "TP": 63,
+    "FP": 0,
+    "TN": 67,
+    "FN": 0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "FPR": 0.0
+  },
+  "interpretation": "This is an ablation study on the included development set. It demonstrates the contribution of Mi'yar layers; it is not independent field validation and does not replace the semantic-AI-only baseline, which requires the local embedding model."
+}

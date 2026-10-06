@@ -1,0 +1,21 @@
+{
+  "schema": "miyar-quran-reference-audit-v1",
+  "official_safe": {
+    "total": 24,
+    "false_positive_count": 0,
+    "examples": []
+  },
+  "semantic_mutations": {
+    "total": 31,
+    "missed_count": 0,
+    "without_high_religious_impact": 0,
+    "miss_examples": [],
+    "impact_examples": []
+  },
+  "provider_failure": {
+    "total": 24,
+    "unsafe_or_false_live_claim_count": 0,
+    "examples": []
+  },
+  "duration_seconds": 3.986
+}

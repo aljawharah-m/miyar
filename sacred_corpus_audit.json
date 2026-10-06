@@ -1,0 +1,66 @@
+{
+  "schema": "miyar-sacred-corpus-audit-v1",
+  "quran": {
+    "exact": {
+      "total": 6236,
+      "unique": 5877,
+      "ambiguous_safe": 359,
+      "miss": 0,
+      "wrong": 0
+    },
+    "undiacritized": {
+      "total": 6236,
+      "unique": 5877,
+      "ambiguous_safe": 359,
+      "miss": 0,
+      "wrong": 0
+    },
+    "quoted": {
+      "total": 6236,
+      "unique": 5877,
+      "ambiguous_safe": 359,
+      "miss": 0,
+      "wrong": 0
+    },
+    "natural_context": {
+      "total": 6236,
+      "unique": 5877,
+      "ambiguous_safe": 359,
+      "miss": 0,
+      "wrong": 0
+    },
+    "arabic_explicit_reference": {
+      "total": 6236,
+      "unique": 6236,
+      "ambiguous_safe": 0,
+      "miss": 0,
+      "wrong": 0
+    },
+    "numeric_reference": {
+      "total": 6236,
+      "unique": 6236,
+      "ambiguous_safe": 0,
+      "miss": 0,
+      "wrong": 0
+    },
+    "quranenc_routing": {
+      "total": 6236,
+      "wrong": 0,
+      "sample_errors": []
+    },
+    "reference_integrity": {
+      "safe_total": 6236,
+      "safe_false_positive_count": 0,
+      "safe_examples": [],
+      "ayah_mutation_total": 6236,
+      "ayah_mutation_missed_count": 0,
+      "ayah_examples": [],
+      "surah_mutation_total": 6236,
+      "surah_mutation_missed_count": 0,
+      "surah_examples": []
+    }
+  },
+  "hadith": {},
+  "notes": [],
+  "duration_seconds": 19.238
+}
