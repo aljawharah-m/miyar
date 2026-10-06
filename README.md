@@ -1,5 +1,21 @@
 # مِعيار | Mi’yar
 
+## Judge Quick Access
+
+| Resource | Link |
+|---|---|
+| Live Demo | https://miyar-gate.streamlit.app/ |
+| 2-minute Demo Video | https://drive.google.com/file/d/1wZnfSNLZjkicoM3Fa1lVwUVDSPO_dU5E/view?usp=sharing |
+| Judge Guide | [START_HERE_FOR_JUDGES.md](START_HERE_FOR_JUDGES.md) |
+| Source Code | https://github.com/aljawharah-m/miyar |
+
+**Quick verification:** python scripts/judge_verify.py
+
+Challenge scope: Arabic to English - existing translation - text only - human final decision
+
+---
+
+
 ## بوابة ذكية لمراجعة سلامة ترجمة المحتوى الإسلامي قبل النشر
 
 > **سليمة لغويًا ≠ دقيقة دلاليًا**
