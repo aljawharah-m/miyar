@@ -1,4 +1,4 @@
-# Mi’yar 1.0 — Current Development Quality Report (V15.20 package)
+# Mi’yar 1.0 — Current Development Quality Report
 
 ## Current shipped evidence
 - Regression: **348/348 passed**.

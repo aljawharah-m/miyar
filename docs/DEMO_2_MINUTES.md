@@ -1,4 +1,4 @@
-# Demo ≤ 2 Minutes — V15.20
+# Demo ≤ 2 Minutes
 
 استخدمي `docs/VIDEO_SCRIPT_2_MIN.md` كنص الفيديو النهائي و`docs/FINAL_DEMO_SCRIPT.md` للحالات.
 

@@ -34,7 +34,7 @@
 - `evaluation/jury_stress_report.json`: **37/37**.
 - `evaluation/long_text_stress_report.json`: **7/7** gap classes داخل نص طويل موزع.
 - `evaluation/repeatability_report.json`: **200/200** comparisons بلا اختلاف.
-- V15.16 black-box campaign: **288** user-style cases/variants، إضافة إلى وثيقة 20 مقطعًا مختلطة.
+- Black-box campaign: **288** user-style cases/variants، إضافة إلى وثيقة 20 مقطعًا مختلطة.
 
 ## 4) القرآن والمراجع
 

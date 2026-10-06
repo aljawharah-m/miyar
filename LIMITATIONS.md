@@ -12,7 +12,7 @@
 - قاموس المصطلحات واسع لكنه غير نهائي؛ المقابل الذي يعتمد على السياق يُحال للمراجعة بدل إصدار حكم قطعي.
 - مِعيار يعرض كل الفجوات التي تكتشفها طبقاته الحالية، لكنه لا يدعي أنه يحصي كل خطأ ممكن في اللغة الطبيعية.
 
-## V15.14 religious-text boundary
+## Religious-text boundary
 - Source recognition and live-reference grounding materially reduce Quran/Hadith false positives and root misclassification, but no finite rule/test suite can guarantee zero errors across every verse, hadith corpus, translation style, commentary context, or adversarial paraphrase.
 - `live_verified` is shown only after an actual provider retrieval; local recognition alone never proves external verification.
 - If authoritative evidence is unavailable or ambiguous, Mi'yar must preserve uncertainty and human review rather than infer religious correctness.

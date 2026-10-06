@@ -1,4 +1,4 @@
-# SOURCES — V15.7
+# SOURCES
 
 ## المصادر بحسب طريقة الاستخدام
 - **QuranEnc**: ترجمة الآية عند التعرف على المرجع ونجاح الاسترجاع.
@@ -36,7 +36,7 @@
 المصدر لا يظهر كـ«مستخدم في القرار» إلا إذا كانت حالته `live_verified` أو guideline محلي موثق. المرجع المقترح يبقى منفصلًا عن الدليل المستخدم.
 
 
-### V15.8 public provenance policy
+### Public provenance policy
 - `reference_verified` لا يساوي `user_translation_verified`.
 - evidence المتعارض صراحة (`status=conflicting` أو `verification.conflict=true`) يفرض Human Review؛ لا يرجح مِعيار بين المصادر آليًا.
 - synthetic IDs من نوع TEST/MOCK/DEMO/ABC تُفحص اتساقيًا محليًا فقط ولا تُرسل للتحقق الخارجي.

@@ -1,4 +1,4 @@
-# مِعيار 1.0 — Jury Scorecard V15.20
+# مِعيار 1.0 — Jury Scorecard
 
 هذه الخريطة تربط كل معيار نهائي في دليل التحدي بدليل قابل للفحص داخل الحزمة.
 
@@ -53,7 +53,7 @@
 - benchmark development metrics.
 - Critical Error Recall.
 - adversarial/jury/long-text/repeatability.
-- V15.16 black-box campaign.
+- Black-box campaign.
 - Quran/Hadith reference and semantic audits.
 - `docs/REVIEWER_WORKLOAD_EVIDENCE.md`: 175 raw signals → 59 root findings، أي **66.3%** تقليل ضوضاء في development stress task.
 

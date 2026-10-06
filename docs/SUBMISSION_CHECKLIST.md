@@ -1,7 +1,7 @@
-# Final Submission Checklist — V15.20
+# Final Submission Checklist
 
 ## داخل الحزمة — منجز
-- [x] Engine frozen on V15.18 verified core + V15.20 submission-ready evidence/docs
+- [x] Engine frozen on verified core + submission-ready evidence/docs
 - [x] 348/348 regression tests
 - [x] 62,490 sacred-source deterministic audit checks
 - [x] 200/200 repeatability comparisons

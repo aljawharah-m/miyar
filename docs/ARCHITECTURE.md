@@ -41,5 +41,5 @@ Mi’yar 1.0 keeps the public decision path reproducible: semantic AI, determini
 Critical signals are occurrence-counted across the whole passage, terminology checks can return multiple independent findings, and all detected findings remain available in the result/audit trail.
 
 
-## V5 mixed-document isolation
+## Mixed-document isolation
 When Arabic and English split into the same number of review units, Mi'yar performs structural, quantity, terminology, and source-recognition checks per aligned unit. Findings carry `segment_index`. Cross-sentence counts are not allowed to cancel or create findings. If reliable positional alignment is unavailable, the engine falls back conservatively instead of pretending sentence correspondence.

@@ -1,4 +1,4 @@
-# Benchmark v0.4 — Development + Ablation + External-Validation Gate
+# Benchmark — Development + Ablation + External-Validation Gate
 
 ## Development set
 130 synthetic development cases covering negation, exception, condition, omission/addition, ruling degree, sentence-local swaps, terminology precision, quantities, scope/provenance and multi-error passages.

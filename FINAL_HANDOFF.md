@@ -1,13 +1,13 @@
-# Mi’yar 1.0 — V15.20 Submission-Ready Final Handoff
+# Mi’yar 1.0 — Final Submission Handoff
 
 ## القرار
-هذه الحزمة هي **Submission-Ready Candidate** المبنية على محرك V15.18 Final Verified، مع تحسينات عرض/تحقق لا توسّع نطاق الفتوى أو الترجمة.
+هذه الحزمة هي **نسخة التسليم النهائية** المبنية على محرك تم التحقق منه، مع تحسينات عرض وإتاحة تحقق لا توسّع نطاق الفتوى أو الترجمة.
 
 ## أسرع نقطة دخول
 افتح `START_HERE_FOR_JUDGES.md`.
 
 ## Evidence الحالية
-- Regression: **348/348 passed** على V15.18 verified engine.
+- Regression: **348/348 passed** على المحرك المتحقق منه.
 - Quran corpus recognition: **6,236/6,236** عبر exact / undiacritized / quoted / natural-context representations مع 0 wrong mappings في audit الأخير.
 - Quran reference integrity: 6,236 safe references بلا FP؛ 6,236 ayah-number mutations؛ 6,236 surah mutations؛ QuranEnc routing 0 wrong في audit.
 - Quran semantic reference audit: 24 safe cases بلا FP؛ 31 mutations بلا miss.
@@ -16,7 +16,7 @@
 - Repeatability: **200/200** comparisons.
 - Jury stress: **37/37**.
 - Long-text: **7/7** injected gap classes.
-- V15.16 black-box campaign retained as regression evidence: **288** cases/variants + mixed 20-segment document.
+- Black-box campaign retained as regression evidence: **288** cases/variants + mixed 20-segment document.
 
 ## قيمة الطبقات
 `evaluation/ablation_report.json` على development set:

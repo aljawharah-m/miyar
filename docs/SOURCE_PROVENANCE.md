@@ -1,4 +1,4 @@
-# Source Provenance — V15.2
+# Source Provenance
 
 ## مبدأ الفصل
 مِعيار يفرق بين أربعة أشياء لا يجوز دمجها:
@@ -8,7 +8,7 @@
 4. **مرجع مقترح للمراجعة** لم يستخدم في القرار الحالي.
 
 ## Terminology provenance manifest
-كل واحد من قواعد المصطلحات الـ48 له صف مباشر قابل للتتبع في:
+كل واحدة من قواعد المصطلحات الـ49 لها صف مباشر قابل للتتبع في:
 `data/terminology_provenance.json`
 
 والنسخة المقروءة:
@@ -32,7 +32,7 @@
 ## النزاهة
 إذا فشل الاسترجاع لا يختلق مِعيار مرجعًا بديلًا. وإذا كانت القاعدة تحتاج سياقًا لا يعطي rewrite قطعيًا.
 
-## V15.7 — Source verification boundary
+## Source verification boundary
 - Reference locator success is not equivalent to translation verification.
 - `reference_verified=true` records that the external/local reference was resolved; `user_translation_verified` remains false until Mi'yar's comparison layers evaluate the translation.
 - QuranEnc/HadeethEnc attribution metadata is preserved when supplied upstream. Missing versions are represented as `None`, never inferred.
