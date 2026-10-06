@@ -16,3 +16,4 @@
 - Source recognition and live-reference grounding materially reduce Quran/Hadith false positives and root misclassification, but no finite rule/test suite can guarantee zero errors across every verse, hadith corpus, translation style, commentary context, or adversarial paraphrase.
 - `live_verified` is shown only after an actual provider retrieval; local recognition alone never proves external verification.
 - If authoritative evidence is unavailable or ambiguous, Mi'yar must preserve uncertainty and human review rather than infer religious correctness.
+- Quran locator coverage has been audited across the 6,236-verse corpus for the documented recognition/reference tasks, but this does not imply universal semantic correctness. Hadith coverage, commentary contexts, translation variants, and adversarial paraphrases still require broader evaluation before wide production use.
